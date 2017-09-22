@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reviews SYSTEM "../MECA-review1.dtd">
+<reviews>
+  <review review-type="review" blinding="none">
+    <contrib-group>
+      <contrib contrib-type="author">
+        <string-name>Bob Q. Reviewer</string-name>
+      </contrib>
+    </contrib-group>
+    <date>
+      <day>22</day>
+      <month>09</month>
+      <year>2017</year>
+    </date>
+    <question-wrap>
+      <question id="q1" question-response-type="true-false">
+        <p>Is it good</p>
+      </question>
+      <answer pointer-to-question="q1">
+        <p>False</p>
+      </answer>
+    </question-wrap>
+  </review>
+</reviews>

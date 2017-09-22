@@ -1,0 +1,43 @@
+<!-- ============================================================= -->
+<!--  MODULE:    MECA Reviews DTD Common Module                    -->
+<!--  VERSION:   MECA 1.0                                          -->
+<!--  DATE:      September 2017                                    -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                    PUBLIC DOCUMENT TYPE DEFINITION            -->
+<!--                        TYPICAL INVOCATION                     -->
+<!--
+"-//DTD Manuscript Exchange Common Approach Reviews DTD Common Module v1.0//EN"
+     Delivered as file "MECA-common.ent"
+                                                                   -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!-- SYSTEM:     Manuscript Exchance Common Approach               -->
+<!--                                                               -->
+<!-- PURPOSE:    REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- TAG SET SPONSOR                                               -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- CREATED FOR:                                                  -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- ORIGINAL CREATION DATE:                                       -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- CREATED BY: REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                    ATTRIBUTE LISTS                            -->
+<!-- ============================================================= -->
+
+
+<!-- ================ End MECA Reviews Common Module ============= -->

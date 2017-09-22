@@ -1,0 +1,329 @@
+<!-- ============================================================= -->
+<!--  MODULE:    Manuscript Exchange Common Approach Reviews DTD   -->
+<!--  VERSION:   MECA 1.0                                          -->
+<!--  DATE:      September 2017                                    -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                    PUBLIC DOCUMENT TYPE DEFINITION            -->
+<!--                        TYPICAL INVOCATION                     -->
+<!--
+"-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD v1.0//EN"
+     Delivered as file "MECA-review1.dtd"
+     Available at:
+     http://REPLACE_ME/1.0/MECA-review1.dtd
+                                                                   -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!-- SYSTEM:     Manuscript Exchance Common Approach               -->
+<!--                                                               -->
+<!-- PURPOSE:    REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- TAG SET SPONSOR                                               -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- CREATED FOR:                                                  -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- ORIGINAL CREATION DATE:                                       -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- CREATED BY: REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                    MODULES OF MODULES INVOKED                 -->
+<!-- ============================================================= -->
+
+
+<!--                    MODULE TO NAME DTD-SPECIFIC MODULES        -->
+<!--                    Names all DTD-specific external modules    -->
+<!ENTITY % reviewcustom-modules.ent
+                        PUBLIC
+"-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD-Specific Modules v1.0//EN"
+"MECA-reviewcustom-modules.ent"                                      >
+%reviewcustom-modules.ent;
+
+
+<!--                    MODULE TO NAME THE MATHML 3.0 MODULES      -->
+<!--                    Names all DTD-specific external modules    -->
+<!ENTITY % mathml3-modules.ent
+                        PUBLIC
+"-//NLM//DTD JATS (Z39.96) JATS MathML 3.0 Modules v1.1 20151215//EN"
+"JATS-mathml3-modules1.ent"                                          >
+%mathml3-modules.ent;
+
+
+<!--                    MODULE TO NAME THE NISO JATS MODULES       -->
+<!--                    Declares all the external modules that are
+                        part of the modular ANSI/NISO JATS Z39.96 DTD
+                        library.
+                           Since this module declares but does not
+                        invoke modules, this DTD then invokes any
+                        modules it uses by referencing the external
+                        Parameter Entities defined in this JATS
+                        Module of Modules.                         -->
+<!ENTITY % modules.ent  PUBLIC
+"-//NLM//DTD JATS (Z39.96) JATS DTD Suite Module of Modules v1.1 20151215//EN"
+"JATS-modules1.ent"                                                  >
+%modules.ent;
+
+<!-- ============================================================= -->
+<!--                    NISO ALI NAMESPACE SETUP                   -->
+<!-- ============================================================= -->
+
+
+<!--                    DEFINE ALI NAMESPACE ATTRIBUTE AND PREFIX  -->
+<!--                    Names the module defines the NISO Access and 
+                        Indicators Exchange Model namespace, prefix, 
+                        and pseudo-attribute @xmlns.               -->
+%JATS-ali-namespace.ent;
+
+
+<!-- ============================================================= -->
+<!--                    SET UP COMMON (ALL ELEMENT) ATTRIBUTES     -->
+<!-- ============================================================= -->
+
+
+<!--                    JATS COMMON ATTRIBUTES                     -->
+<!--                    Set up the common attributes, those used on
+                        nearly all elements.
+                        Must be called before the custom models
+                        module.                                    -->
+%JATS-common-atts.ent;
+
+
+<!-- ============================================================= -->
+<!--                    CUSTOMIZATION MODULES INVOKED              -->
+<!--                    Note: These modules must be called after   -->
+<!--                    all Module of Modules but before any other -->
+<!--                    modules. Unlike any other grouping, order  -->
+<!--                    of these modules matters.                  -->
+<!-- ============================================================= -->
+
+
+<!--                    DTD-SPECIFIC CLASS CUSTOMIZATIONS MODULE   -->
+<!--                    Names the module that holds the DTD-specific
+                        class definitions for the MECA Review DTD
+                        that over-ride the defaults of either the
+                        BITS or the NISO JATS.
+                        (Defined in %reviewcustom-modules.ent; )     -->
+%reviewcustom-classes.ent;
+
+
+<!--                    DEFAULT ELEMENT CLASSES MODULE             -->
+<!--                    Names the module that holds the standard
+                        class definitions for the JATS DTD Library.-->
+%default-classes.ent;
+
+
+<!--                    DTD-SPECIFIC MIX CUSTOMIZATIONS MODULE     -->
+<!--                    Names the module that holds the DTD-specific
+                        mix definitions for the MECA Review DTD
+                        that over-ride the defaults of either the
+                        BITS or the NISO JATS.
+                        (Defined in %reviewcustom-modules.ent; )     -->
+%reviewcustom-mixes.ent;
+
+
+<!--                    DEFAULT MIX CUSTOMIZATIONS MODULE          -->
+<!--                    Names the module that holds the standard
+                        mix definitions for the JATS DTD Library.  -->
+%default-mixes.ent;
+
+
+<!--                    DTD-SPECIFIC MODELS/ATTRIBUTES CUSTOMIZATIONS
+                        MODULE                                     -->
+<!--                    Names the module that holds the DTD-specific
+                        overrides of content models, attribute lists,
+                        and elements lists for the MECA Review DTD
+                        that over-ride the defaults of either the
+                        BITS or the NISO JATS.
+                        (Defined in %reviewcustom-modules.ent; )     -->
+%reviewcustom-models.ent;
+
+
+<!-- ============================================================= -->
+<!--                    ANSI/NISO JATS COMMON (SHARED) ELEMENTS    -->
+<!-- ============================================================= -->
+
+
+<!--                    BITS COMMON (SHARED) DECLARATIONS          -->
+<!--                    Declarations for elements, attributes,
+                        entities, and Notations that are shared by
+                        more than one class module. Note: Must be
+                        called before any of the class modules.    -->
+
+%meca-common.ent;
+
+
+
+<!--                    COMMON (SHARED) DECLARATIONS               -->
+<!--                    Declarations for elements, attributes,
+                        entities, and Notations that are shared by
+                        more than one class module. Note: Must be
+                        called before any of the class modules.    -->
+
+%common.ent;
+
+
+<!-- ============================================================= -->
+<!--                    ANSI/NISO JATS CLASS ELEMENTS (alpha)      -->
+<!-- ============================================================= -->
+
+<!--                    ARTICLE METADATA ELEMENTS                  -->
+%articlemeta.ent;
+
+
+<!--                    BACK MATTER ELEMENTS                       -->
+%backmatter.ent;
+
+
+<!--                    DISPLAY (GRAPHICAL) ELEMENTS               -->
+%display.ent;
+
+
+<!--                    FORMATTING ELEMENT CLASSES                 -->
+<!--                    Elements that change rendition/display.    -->
+%format.ent;
+
+
+<!--                    FUNDING ELEMENTS                           -->
+<!--                    Elements that describe the sponsorship or
+                        open access                                -->
+%funding.ent;
+
+
+<!--                    JOURNAL METADATA ELEMENTS                  -->
+%journalmeta.ent;
+
+
+<!--                    LINK CLASS ELEMENTS                        -->
+%link.ent;
+
+
+<!--                    LIST CLASS ELEMENTS                        -->
+%list.ent;
+
+
+<!--                    MATH ELEMENTS                              -->
+%math.ent;
+
+
+<!--                    NLM CITATION ELEMENT (deprecated)          -->
+%nlmcitation.ent;
+
+
+<!--                    PARAGRAPH-LEVEL ELEMENTS                   -->
+%para.ent;
+
+
+<!--                    PHRASE-LEVEL ELEMENTS                      -->
+%phrase.ent;
+
+
+<!--                    BIBLIOGRAPHIC REFERENCE (CITATION)
+                        CLASS ELEMENTS                             -->
+%references.ent;
+
+
+<!--                    RELATED OBJECT ELEMENT                     -->
+<!--                    Defines the <related-object> element to
+                        describe a related object such as a
+                        related book or a dataset.                 -->
+%related-object.ent;
+
+
+<!--                    SECTION ELEMENTS                           -->
+%section.ent;
+
+
+<!-- ============================================================= -->
+<!--                    THE REST OF THE EXTERNAL MODULES INVOKED   -->
+<!-- ============================================================= -->
+
+
+<!--                    MATHML SETUP MODULE                        -->
+<!--                    Invoke the MathML modules                  -->
+%mathml3-mathmlsetup.ent;
+
+
+
+<!--                    XHTML TABLE SETUP MODULE                   -->
+<!--                    Set up the necessary Parameter Entity values
+                        and then invoke XHTML (HTML 4.0) table
+                        module                                     -->
+%XHTMLtablesetup.ent;
+
+
+<!--                    SPECIAL CHARACTERS DECLARATIONS            -->
+<!--                    Standard XML special character entities
+                        used in this DTD                           -->
+<!--%xmlspecchars.ent;-->
+
+
+<!--                    CUSTOM SPECIAL CHARACTERS DECLARATIONS     -->
+<!--                    Custom special character entities created
+                        specifically for use in this DTD Suite     -->
+%chars.ent;
+
+
+<!--                    NOTATION DECLARATIONS MODULE               -->
+%notat.ent;
+
+
+<!--                    BITS QUESTION AND ANSWER MODULE            -->
+<!--                    Element declarations for BITS questions
+                        and answers (not complete tests, but used
+                        to put build quizzes and tests.            -->
+%question-answer.ent;
+
+
+<!-- ============================================================= -->
+<!--                    REVIEW ELEMENTS AND ATTRIBUTES             -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                    REVIEW-GROUP                               -->
+<!-- ============================================================= -->
+
+
+<!--                    REVIEW-GROUP                               -->
+<!--                    A group that contains multiple reviews.
+                                                                   -->
+<!ELEMENT  reviews
+                        (review+)                                    >
+<!ATTLIST  reviews
+             %dtd-version;
+             article-type
+                        CDATA                             #IMPLIED   >
+
+
+<!-- ============================================================= -->
+<!--                    REVIEW                                     -->
+<!-- ============================================================= -->
+
+
+<!--                    REVIEW                                     -->
+<!--                    Commentary or remarks pertaining to a
+                        specific version of an article.
+                                                                   -->
+<!ELEMENT  review       (contrib-group*, date*, question-wrap+)      >
+<!ATTLIST  review
+             review-type
+                        (review|recommendation|decision)  #REQUIRED
+             blinding   (single|double|none)              #REQUIRED
+             permission-to-publish
+                        (no | yes)                        #IMPLIED
+             permission-to-transfer
+                        (no | yes)                        #IMPLIED
+             seq        CDATA                             #IMPLIED   >
+
+<!-- ================== End MECA Reviews DTD ===================== -->

@@ -1,0 +1,432 @@
+<!-- ============================================================= -->
+<!--  MODULE:    MECA Reviews DTD Customize Classes Module         -->
+<!--  VERSION:   MECA 1.0                                          -->
+<!--  DATE:      September 2017                                    -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+<!-- ============================================================= -->
+<!--                    PUBLIC DOCUMENT TYPE DEFINITION            -->
+<!--                        TYPICAL INVOCATION                     -->
+<!--
+"-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD Customize Classes Module v1.0//EN"
+     Delivered as file "MECA-reviewcustom-classes.ent"
+                                                                   -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!-- SYSTEM:     Manuscript Exchance Common Approach               -->
+<!--                                                               -->
+<!-- PURPOSE:    REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- TAG SET SPONSOR                                               -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- CREATED FOR:                                                  -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- ORIGINAL CREATION DATE:                                       -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- CREATED BY: REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                    INLINE CLASSES                             -->
+<!-- ============================================================= -->
+
+
+<!--                    PHRASE CLASS ELEMENTS                      -->
+<!--                    Small inline elements, that surround a word
+                        or phrase in the text because the subject
+                        (content) should be identified as something
+                        special or different                       -->
+<!ENTITY % phrase.class "abbrev | index-term | index-term-range-end |
+                         milestone-end | milestone-start |
+                         named-content | styled-content"             >
+
+
+<!-- ============================================================= -->
+<!--                    PRESENTATION/FORMAT CLASSES                -->
+<!-- ============================================================= -->
+
+<!--                    EMPHASIS/RENDITION ELEMENTS                -->
+<!--                    Elements concerning with marking the location
+                        of typographical emphasis (highlighting)
+                        DTD Design Note: There are no emphasis
+                        elements for <fractur>, <openface> (black
+                        board), <script>, etc. because this DTD
+                        recommends the use of the STIX extensions
+                        to accomplish this, as soon as they are
+                        available.                                 -->
+<!ENTITY % emphasis.class
+                        "bold | fixed-case | italic | monospace |
+                         overline | overline-start | overline-end |
+                         roman | sans-serif | sc | serif | strike |
+                         underline | underline-start | 
+                         underline-end |
+                         ruby"                                       >
+
+
+<!--                    FACE MARKUP ELEMENTS                       -->
+<!--                    All of the emphasis/rendition elements
+                        except <ruby>, for use (initially) inside
+                        <ruby> itself.                             -->
+<!ENTITY % face-markup.class
+                        "bold | fixed-case | italic | monospace |
+                         overline | overline-start | overline-end |
+                         roman | sans-serif | sc | serif | strike |
+                         underline | underline-start | 
+                         underline-end"                              >
+
+
+<!--                    X-GENERATED PUNCTUATION CLASS              -->
+<!--                    Class containing a single element that will
+                        hold generated punctuation or other
+                        generatable text, for example, the commas or
+                        semicolons between keywords.               -->
+<!ENTITY % x.class      "x"                                          >
+
+
+<!-- ============================================================= -->
+<!--                    CITATION CLASSES (references.ent)          -->
+<!-- ============================================================= -->
+
+
+<!--                    CITATION CLASS ELEMENTS                    -->
+<!--                    Reference to an external document, as used
+                        within, for example, the text of a
+                        paragraph
+                        (from Publishing; removed <nlm-citation>)  -->
+<!ENTITY % citation.class
+                        "citation-alternatives | element-citation |
+                         mixed-citation"                             >
+
+
+<!--                    CITATION MINUS ALTERNATIVES CLASS ELEMENTS -->
+<!--                    All the citation elements except the
+                        <citation-alternatives> element.
+                        (from Publishing; removed <nlm-citation>)  -->
+<!ENTITY % citation-minus-alt.class
+                        "element-citation | mixed-citation"          >
+
+
+<!--                    CITATION ADDITIONS CLASS ELEMENTS          -->
+<!--                    Elements that are not part of the broader
+                        -references.class, but that need to be part
+                        of the model for citations.                -->
+<!ENTITY % citation-additions.class
+                        "string-date"                                >
+
+<!-- ============================================================= -->
+<!--                    BOOK METADATA CLASSES                      -->
+<!-- ============================================================= -->
+ 
+
+<!--                    ATTRIBUTION CLASS ELEMENTS                 -->
+<!--                    Identify the parts of an attribution
+                        (element <attrib>).                        -->
+<!ENTITY % attrib.class "collab |  element-citation |  
+                         mixed-citation |  name | string-name"       >
+
+
+<!--                    CONTRIBUTOR INFORMATION                    -->
+<!--                    Metadata about a contributor
+                        (from Publishing)                          -->
+<!ENTITY % contrib-info.class
+                        "address | aff | aff-alternatives |
+                         author-comment | bio | email |  etal |
+                         ext-link | fn | on-behalf-of | role |
+                         uri | xref"                                 >
+
+
+<!--                    EVENT CLASS ELEMENTS                       -->
+<!--                    Dates and other matters of history         -->
+<!ENTITY % event.class  "event"                                      >
+
+
+<!-- ============================================================= -->
+<!--                    BLOCK DISPLAY CLASSES                      -->
+<!-- ============================================================= -->
+
+
+<!--                    ADDRESS-ONLY CLASS                         -->
+<!--                    Holds the <address> element, for use in 
+                        content models.                            -->
+<!ENTITY % address-only.class
+                        "address"                                    >
+
+
+<!--                    DISPLAY CLASS ELEMENTS                     -->
+<!--                    Graphical or other image-related elements.
+                        The display elements may occur within
+                        the text of a table cell or paragraph
+                        although they are typically at the same
+                        hierarchical level as a paragraph.         -->
+<!ENTITY % block-display.class
+                        "address | alternatives |
+                         answer | answer-set | array |
+                         boxed-text | chem-struct-wrap | code |
+                         explanation | 
+                         fig | fig-group | graphic | media |
+                         name-address-wrap | preformat | 
+                         question | question-wrap | 
+                         question-wrap-group |
+                         supplementary-material |
+                         table-wrap | table-wrap-group"              >
+
+
+<!--                    DISPLAY CLASS ELEMENTS (NO ALTERNATIVES)   -->
+<!--                    Graphical or other image-related elements.
+                        The display elements may occur within
+                        the text of a table cell or paragraph
+                        although they are typically at the same
+                        hierarchical level as a paragraph.         -->
+<!ENTITY % block-display-noalt.class
+                        "address |
+                         answer | answer-set | array |
+                         boxed-text | chem-struct-wrap | code |
+                         explanation | 
+                         fig | fig-group | graphic | media |
+                         name-address-wrap | preformat | 
+                         question | question-wrap | 
+                         question-wrap-group |
+                         supplementary-material |
+                         table-wrap | table-wrap-group"              >
+
+
+<!--                    DISPLAY CLASS ELEMENTS MINUS EXPLANATION   -->
+<!--                    The same as block-display.class without
+                        the explanation element, for use in 
+                        <answer> and <option> elements.            -->
+<!ENTITY % block-display-minus-explanation.class
+                        "address | alternatives |
+                         answer | answer-set | array |
+                         boxed-text | chem-struct-wrap | code |
+                         fig | fig-group | graphic | media |
+                         name-address-wrap | preformat | 
+                         question | question-wrap | 
+                         question-wrap-group |
+                         supplementary-material |
+                         table-wrap | table-wrap-group"              >
+
+
+<!--                    QUESTION AND ANSWER CLASS                  -->
+<!--                    Questions and answers (also in block display
+                        class, for use in other places).           -->
+<!ENTITY % question-answer.class
+                        "answer | answer-set | explanation |
+                         question |
+                         question-wrap | question-wrap-group"        >
+
+
+<!--                    QUESTION WRAP CLASS                        -->
+<!--                    Class to hold just the element
+                        <question-wrap> for use in models.         -->
+<!ENTITY % question-wrap.class
+                        "question-wrap"                              >
+
+
+<!--                    OPTION-ONLY CLASS                          -->
+<!--                    Holds the <option> element, for use in 
+                        content models.                            -->
+<!ENTITY % option.class "option"                                     >
+
+
+<!--                    ROLE-ONLY CLASS                            -->
+<!--                    Holds the <role> element, for use in 
+                        content models.                            -->
+<!ENTITY % role-only.class
+                        "role"                                       >
+
+
+<!-- ============================================================= -->
+<!--                    BOOK STRUCTURES CLASSES                    -->
+<!-- ============================================================= -->
+
+
+<!--                    BOOK APPENDIX CLASS                        -->
+<!--                    Holds the <book-app> element, for use in
+                        content models.                            -->
+<!ENTITY % book-app.class
+                        "book-app"                                   >
+
+
+<!--                    BOOK PART CLASS                            -->
+<!--                    Holds the <book-part> element, for use in
+                        content models.                            -->
+<!ENTITY % book-part.class
+                        "book-part | xi:include"                     >
+
+
+<!--                    BOOK-PART BACK MATTER ONLY CLASS           -->
+<!--                    Ancillary elements, used in back matter of
+                        a book                                     -->
+<!ENTITY % book-back-only.class
+                        "book-app | book-app-group | floats-group | 
+                         index | index-group | ref-list"             >
+
+
+<!--                    BACK MATTER ONLY CLASS                     -->
+<!--                    Ancillary elements, used in back matter of
+                        a book or book part.                       -->
+<!ENTITY % back-only.class
+                        "app | app-group | floats-group | index |
+                         index-group | ref-list"                     >
+
+
+<!--                    FOOTNOTE GROUP CLASS                       -->
+<!--                    A class to hold just the <fn-group> element
+                        for use in content models.                 -->
+<!ENTITY % fn-group.class
+                        "fn-group"                                   >
+
+
+<!--                    FRONT ONLY CLASS                           -->
+<!--                    Ancillary elements, used in front matter of
+                        a book or book part.                       -->
+<!ENTITY % front-only.class
+                         "front-matter-part | foreword | preface"    >
+
+
+<!--                    FRONT AND BACK CLASS                       -->
+<!--                    Ancillary elements, typically used in the
+                        front or back matter of an article, but
+                        also as part of book metadata.             -->
+<!ENTITY % front-back.class
+                        "notes"                                      >
+
+
+<!--                    BOTH FRONT AND BACK MATTER CLASS           -->
+<!--                    Ancillary elements, typically used in the
+                        back matter of a <book> or a <book-part>.  -->
+<!ENTITY % both-front-back.class
+                         "ack | bio | dedication | fn-group |
+                          glossary | toc | toc-group"                >
+
+
+<!--                    REFERENCE LIST CLASS                       -->
+<!--                    Class to hold just the <ref-list> element,
+                        so it can be used in t <front-matter>, for 
+                         example.                                  -->
+<!ENTITY % ref-list.class
+                        "ref-list"                                   >
+
+
+<!--                    SECTION BACK MATTER CLASS                  -->
+<!--                    Ancillary elements, typically used in the
+                        back matter of a section, etc.
+                        Added <sig-block> to Publishing.           -->
+<!ENTITY % sec-back.class
+                        "fn-group | glossary | ref-list |
+                         sig-block"                                  >
+
+
+<!--                    SIGNATURE BLOCK CLASS                      -->
+<!--                    Class to hold just the signature block,
+                        which is used in the backs of sections and
+                        book-parts, but not in the back of books.  -->
+<!ENTITY % sig-block.class
+                        "sig-block"                                  >
+
+
+<!--                    XINCLUDE CLASS                             -->
+<!--                    Class to hold just the <xi:include> element
+                        so that it can be used in book front matter
+                        as well as other places.                   -->
+<!ENTITY % xinclude.class
+                        "xi:include"                                 >
+
+
+<!-- ============================================================= -->
+<!--                    INDEX CLASSES                              -->
+<!-- ============================================================= -->
+
+
+<!--                    INDEX CLASS                                -->
+<!--                    Used for grouping multiple Indexes.        -->
+<!ENTITY % index.class  "index"                                      >
+
+
+<!--                    INDEX DIVISION CLASS                       -->
+<!--                    Division, typically for the purposes of
+                        display, in a structural index, for example
+                        a division holding the heading "A" and
+                        all of the initial alphabetically
+                        arranged index entries.                    -->
+<!ENTITY % index-div.class
+                        "index-div"                                  >
+
+
+<!--                    INDEX ENTRY CLASS                          -->
+<!--                    Entry in a structural Index.               -->
+<!ENTITY % index-entry.class
+                        "index-entry"                                >
+
+
+<!--                    NAVIGATION POINTER CLASS                   -->
+<!--                    Navigation pointer for use in a structural
+                        Index or table of contents.                -->
+<!ENTITY % nav-pointer.class
+                        "nav-pointer"                                >
+
+
+<!--                    SEE AND SEE-ALSO ENTRY CLASS               -->
+<!--                    See (use) and see-also (related) entries
+                        in a structural Index.                     -->
+<!ENTITY % see-also-see-entry.class
+                        "see-entry | see-also-entry"                 >
+
+
+<!-- ============================================================= -->
+<!--                    TABLE OF CONTENTS CLASSES                  -->
+<!-- ============================================================= -->
+
+
+<!--                    TABLE OF CONTENTS CLASS                    -->
+<!--                    Used for grouping multiple Tables of Contents.
+                                                                   -->
+<!ENTITY % toc.class    "toc"                                        >
+
+
+<!--                    TABLE OF CONTENTS DIVISION CLASS           -->
+<!--                    Division, typically for the purposes of
+                        display, in a structural ToC, for example
+                        a division holding the first Part of a
+                        3-part book, and the titles of all the
+                        chapters in that Part.                     -->
+<!ENTITY % toc-div.class
+                        "toc-div"                                    >
+
+
+<!--                    TABLE OF CONTENTS ENTRY CLASS              -->
+<!--                    Entry in a structural Table of Contents.   -->
+<!ENTITY % toc-entry.class
+                        "toc-entry"                                  >
+
+
+<!--                    ABTRACT CLASS FOR TABLE OF CONTENTS        -->
+<!--                    Used to add the <abstract> and
+                        <trans-abstract> elements to a Table of
+                        Contents entry <toc-entry>.                -->
+<!ENTITY % toc-abstract.class
+                        "abstract | trans-abstract"                  >
+
+
+<!-- ============================================================= -->
+<!--                    BOTH TABLE OF CONTENTS AND INDEX CLASSES   -->
+<!-- ============================================================= -->
+
+
+<!--                    STRUCTURAL LINKING CLASS                   -->
+<!--                    Elements that might be used to make a link
+                        in a structural Table of Contents, Index,
+                        or similar non-generated structure.        -->
+<!ENTITY % struct-link.class
+                        "ext-link | nav-pointer | nav-pointer-group" >
+
+
+<!-- ================ End MECA Review Classes Customization ====== -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="##xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/">
+  <xs:import schemaLocation="MECA-review1.flattened.xsd"/>
+  <xs:import namespace="##xlink" schemaLocation="xlink.xsd"/>
+  <xs:import namespace="http://www.w3.org/1998/Math/MathML" schemaLocation="mml.xsd"/>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:element name="free_to_read">
+    <xs:complexType>
+      <xs:attributeGroup ref="attlist.ali.free_to_read"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="license_ref">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="attlist.ali.license_ref"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

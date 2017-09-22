@@ -1,0 +1,136 @@
+<!-- ============================================================= -->
+<!--  MODULE:    MECA Reviews DTD-Specific Modules                 -->
+<!--  VERSION:   MECA 1.0                                          -->
+<!--  DATE:      September 2017                                    -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                     DOCUMENT TYPE DEFINITION                  -->
+<!--                        TYPICAL INVOCATION                     -->
+<!--
+"-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD-Specific Modules v1.0//EN"
+     Delivered as file "MECA-reveiwcustom-modules2.ent"
+                                                                   -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!-- SYSTEM:     Manuscript Exchance Common Approach               -->
+<!--                                                               -->
+<!-- PURPOSE:    REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- TAG SET SPONSOR                                               -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- CREATED FOR:                                                  -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- ORIGINAL CREATION DATE:                                       -->
+<!--             REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- CREATED BY: REPLACE_ME                                        -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                    MODULES OF MODULES INVOKED                 -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                    SET UP XINCLUDE PROCESSING                 -->
+<!-- ============================================================= -->
+
+
+<!--                    XINCLUDE MODULE                            -->
+<!--                    Set up the namespace and elements for using
+                        <xi:include> to manage books and book parts.
+                                                                   -->
+<!ENTITY % xinclude.ent
+                        PUBLIC
+"-//NLM//DTD BITS XInclude Setup Module v2.0 20151225//EN"
+"BITS-xinclude2.ent"                                                 >
+
+
+<!-- ============================================================= -->
+<!--                    CUSTOMIZATION MODULES DECLARED             -->
+<!-- ============================================================= -->
+
+
+<!--                    DTD-SPECIFIC CLASS CUSTOMIZATIONS MODULE   -->
+<!--                    Set up the Parameter Entities and element
+                        class definitions that will be used to
+                        over-ride some element classes in the
+                        DTD Suite.                                 -->
+<!ENTITY % reviewcustom-classes.ent
+                        PUBLIC
+"-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD Customize Classes Module v1.0//EN"
+"MECA-reviewcustom-classes.ent"                                      >
+
+
+<!--                    DTD-SPECIFIC MIX CUSTOMIZATIONS MODULE     -->
+<!--                    Set up the Parameter Entities and element
+                        mix definitions that will be used to
+                        over-ride some element mixes in the DTD
+                        Suite.                                     -->
+<!ENTITY % reviewcustom-mixes.ent
+                        PUBLIC
+"-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD Customize Mixes Module v1.0//EN"
+"MECA-reviewcustom-mixes.ent"                                        >
+
+
+<!--                    DTD-SPECIFIC MODELS/ATTRIBUTES CUSTOMIZATIONS
+                        MODULE                                     -->
+<!--                    Set up the Parameter Entities for element-
+                        specific element groups, complete content
+                        models, and attribute list and value over-
+                        rides. These PEs will over-ride selected
+                        content models and attribute lists for the
+                        Journal JATS DTD Suite-->
+<!ENTITY % reviewcustom-models.ent
+                        PUBLIC
+"-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD Customize Content and Attributes Module v1.0//EN"
+"MECA-reviewcustom-models.ent"                                       >
+
+<!-- ============================================================= -->
+<!--                    MECA MODULES                               -->
+<!-- ============================================================= -->
+
+
+<!--                    MECA COMMON (SHARED) ELEMENT MODULE        -->
+<!--                    Element declarations for MECA metadata
+                        elements.                                  -->
+<!ENTITY % meca-common.ent PUBLIC
+"-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD Common Module v1.0//EN"
+"MECA-common.ent"                                                    >
+
+
+<!-- ============================================================= -->
+<!--                    BITS MODULES                               -->
+<!-- ============================================================= -->
+
+
+<!ENTITY % question-answer.ent
+                        PUBLIC
+"-//NLM//DTD BITS Question and Answer Module v2.0 20151225//EN"
+"BITS-question-answer2.ent"                                          >
+
+
+<!-- ============================================================= -->
+<!--                    ADD GLOBAL ATTRIBUTE(S) MODULE             -->
+<!-- ============================================================= -->
+
+
+<!--                    JATS COMMON ATTRIBUTES MODULES             -->
+<!--                    Apply global attributes to all the JATS/BITS
+                        elements.                                  -->
+<!ENTITY % JATS-common-atts.ent
+                        PUBLIC
+"-//NLM//DTD JATS (Z39.96) JATS DTD Suite Common Attributes (for all elements) v1.1 20151215//EN"
+"JATS-common-atts1.ent"                                              >
+
+
+<!-- ================= End MECA Review DTD Module of Modules ===== -->
