@@ -154,7 +154,7 @@
                          boxed-text | chem-struct-wrap | code |
                          explanation | 
                          fig | fig-group | graphic | media |
-                         name-address-wrap | preformat | 
+                         preformat | 
                          question | question-wrap | 
                          question-wrap-group |
                          supplementary-material |
@@ -173,7 +173,7 @@
                          boxed-text | chem-struct-wrap | code |
                          explanation | 
                          fig | fig-group | graphic | media |
-                         name-address-wrap | preformat | 
+                         preformat | 
                          question | question-wrap | 
                          question-wrap-group |
                          supplementary-material |
@@ -189,7 +189,7 @@
                          answer | answer-set | array |
                          boxed-text | chem-struct-wrap | code |
                          fig | fig-group | graphic | media |
-                         name-address-wrap | preformat | 
+                         preformat | 
                          question | question-wrap | 
                          question-wrap-group |
                          supplementary-material |

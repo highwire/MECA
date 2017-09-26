@@ -229,7 +229,6 @@ license-p =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -3150,7 +3149,6 @@ ack =
       | fig-group
       | graphic
       | media
-      | name-address-wrap
       | preformat
       | question
       | question-wrap
@@ -3213,7 +3211,6 @@ bio =
       | fig-group
       | graphic
       | media
-      | name-address-wrap
       | preformat
       | question
       | question-wrap
@@ -3265,7 +3262,6 @@ notes =
       | fig-group
       | graphic
       | media
-      | name-address-wrap
       | preformat
       | question
       | question-wrap
@@ -3991,7 +3987,6 @@ abstract =
       | fig-group
       | graphic
       | media
-      | name-address-wrap
       | preformat
       | question
       | question-wrap
@@ -4043,7 +4038,6 @@ trans-abstract =
       | fig-group
       | graphic
       | media
-      | name-address-wrap
       | preformat
       | question
       | question-wrap
@@ -4743,7 +4737,6 @@ app-group =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -4794,7 +4787,6 @@ app =
       | fig-group
       | graphic
       | media
-      | name-address-wrap
       | preformat
       | question
       | question-wrap
@@ -4854,7 +4846,6 @@ glossary =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -4924,7 +4915,6 @@ boxed-text =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -7111,7 +7101,6 @@ p =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -7157,7 +7146,6 @@ disp-quote =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -7474,7 +7462,6 @@ named-content =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -7554,7 +7541,6 @@ styled-content =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -7595,7 +7581,6 @@ ref-list =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -8516,7 +8501,6 @@ sec =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -23371,7 +23355,6 @@ question =
          | fig-group
          | graphic
          | media
-         | name-address-wrap
          | preformat
          | question
          | question-wrap
@@ -23453,7 +23436,6 @@ question-preamble =
      | fig-group
      | graphic
      | media
-     | name-address-wrap
      | preformat
      | question
      | question-wrap
@@ -23504,7 +23486,6 @@ answer =
          | fig-group
          | graphic
          | media
-         | name-address-wrap
          | preformat
          | question
          | question-wrap
@@ -23571,7 +23552,6 @@ explanation =
          | fig-group
          | graphic
          | media
-         | name-address-wrap
          | preformat
          | question
          | question-wrap
@@ -23623,7 +23603,6 @@ option =
          | fig-group
          | graphic
          | media
-         | name-address-wrap
          | preformat
          | question
          | question-wrap
@@ -23674,7 +23653,6 @@ book-page-count |= notAllowed
 book-ref-count |= notAllowed
 book-table-count |= notAllowed
 book-word-count |= notAllowed
-name-address-wrap |= notAllowed
 start =
   app-group
   | count
