@@ -121,7 +121,6 @@ copyright-statement =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -199,7 +198,6 @@ license-p =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -294,7 +292,6 @@ article-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -357,7 +354,6 @@ aff =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -428,7 +424,6 @@ conf-loc =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -489,7 +484,6 @@ conf-name =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -541,7 +535,6 @@ conf-sponsor =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -630,7 +623,6 @@ issue =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -702,7 +694,6 @@ issue-part =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -754,7 +745,6 @@ issue-sponsor =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -806,7 +796,6 @@ issue-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -867,7 +856,6 @@ role =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -929,7 +917,6 @@ trans-subtitle =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -982,7 +969,6 @@ trans-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1036,7 +1022,6 @@ volume =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1099,7 +1084,6 @@ volume-id =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1151,7 +1135,6 @@ volume-series =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1218,7 +1201,6 @@ anonymous =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1269,7 +1251,6 @@ etal =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1320,7 +1301,6 @@ on-behalf-of =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1380,7 +1360,6 @@ publisher-name =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1442,7 +1421,6 @@ publisher-loc =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1557,7 +1535,6 @@ mixed-citation =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1678,7 +1655,6 @@ element-citation =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1812,7 +1788,6 @@ addr-line =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1901,7 +1876,6 @@ email =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -1952,7 +1926,6 @@ fax =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2014,7 +1987,6 @@ institution =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2082,7 +2054,6 @@ phone =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2162,7 +2133,6 @@ uri =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2214,7 +2184,6 @@ supplement =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2329,7 +2298,6 @@ string-date =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2424,7 +2392,6 @@ collab =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2510,7 +2477,6 @@ string-name =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2567,7 +2533,6 @@ degrees =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2617,7 +2582,6 @@ given-names =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2667,7 +2631,6 @@ surname =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2719,7 +2682,6 @@ prefix =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2771,7 +2733,6 @@ suffix =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2834,7 +2795,6 @@ ext-link =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2885,7 +2845,6 @@ attrib =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2951,7 +2910,6 @@ label =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -2998,7 +2956,6 @@ price =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3032,7 +2989,6 @@ title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3104,7 +3060,6 @@ related-article =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3217,7 +3172,6 @@ sig-block =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3279,7 +3233,6 @@ sig =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3551,7 +3504,6 @@ meta-name =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3600,7 +3552,6 @@ meta-value =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3663,7 +3614,6 @@ textual-form =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3698,7 +3648,6 @@ x =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3813,7 +3762,6 @@ subject =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3864,7 +3812,6 @@ compound-subject-part =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3905,7 +3852,6 @@ series-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -3957,7 +3903,6 @@ series-text =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4028,7 +3973,6 @@ product =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4157,7 +4101,6 @@ self-uri =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4322,7 +4265,6 @@ kwd =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4381,7 +4323,6 @@ compound-kwd-part =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4441,7 +4382,6 @@ unstructured-kwd-group =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4502,7 +4442,6 @@ corresp =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4594,7 +4533,6 @@ conf-acronym =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4646,7 +4584,6 @@ conf-num =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4698,7 +4635,6 @@ conf-theme =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4750,7 +4686,6 @@ string-conf =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4883,7 +4818,6 @@ subtitle =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -4936,7 +4870,6 @@ alt-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -5275,7 +5208,6 @@ chem-struct =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -5517,7 +5449,6 @@ preformat =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -5579,7 +5510,6 @@ code =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -5750,7 +5680,6 @@ bold =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -5802,7 +5731,6 @@ fixed-case =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -5854,7 +5782,6 @@ italic =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -5906,7 +5833,6 @@ monospace =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -5958,7 +5884,6 @@ roman =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6010,7 +5935,6 @@ sans-serif =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6062,7 +5986,6 @@ sc =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6114,7 +6037,6 @@ overline =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6166,7 +6088,6 @@ strike =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6218,7 +6139,6 @@ sub =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6270,7 +6190,6 @@ sup =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6323,7 +6242,6 @@ underline =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6415,7 +6333,6 @@ rb =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6502,7 +6419,6 @@ funding-statement =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6600,7 +6516,6 @@ funding-source =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6665,7 +6580,6 @@ award-id =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6764,7 +6678,6 @@ journal-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6816,7 +6729,6 @@ journal-subtitle =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6868,7 +6780,6 @@ abbrev-journal-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6931,7 +6842,6 @@ target =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -6986,7 +6896,6 @@ xref =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7053,7 +6962,6 @@ inline-supplementary-material =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7119,7 +7027,6 @@ term-head =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7168,7 +7075,6 @@ def-head =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7230,7 +7136,6 @@ term =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7314,7 +7219,6 @@ inline-formula =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7366,7 +7270,6 @@ disp-formula =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7455,7 +7358,6 @@ p =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7600,7 +7502,6 @@ speaker =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7683,7 +7584,6 @@ verse-line =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7747,7 +7647,6 @@ abbrev =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7834,7 +7733,6 @@ named-content =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -7918,7 +7816,6 @@ styled-content =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8090,7 +7987,6 @@ chapter-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8143,7 +8039,6 @@ comment =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8191,7 +8086,6 @@ data-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8227,7 +8121,6 @@ date-in-citation =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8261,7 +8154,6 @@ edition =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8313,7 +8205,6 @@ gov =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8364,7 +8255,6 @@ part-title =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8418,7 +8308,6 @@ patent =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8509,7 +8398,6 @@ series =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8554,7 +8442,6 @@ std =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8596,7 +8483,6 @@ std-organization =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8651,7 +8537,6 @@ source =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8712,7 +8597,6 @@ trans-source =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8766,7 +8650,6 @@ version =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -8838,7 +8721,6 @@ related-object =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -23665,7 +23547,6 @@ th =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -23749,7 +23630,6 @@ td =
      | roman
      | sans-serif
      | sc
-     | serif
      | strike
      | underline
      | underline-start
@@ -24139,7 +24019,6 @@ index-term |= notAllowed
 index-term-range-end |= notAllowed
 name-address-wrap |= notAllowed
 private-char |= notAllowed
-serif |= notAllowed
 start =
   app-group
   | count

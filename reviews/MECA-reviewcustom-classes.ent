@@ -65,7 +65,7 @@
 <!ENTITY % emphasis.class
                         "bold | fixed-case | italic | monospace |
                          overline | overline-start | overline-end |
-                         roman | sans-serif | sc | serif | strike |
+                         roman | sans-serif | sc | strike |
                          underline | underline-start | 
                          underline-end |
                          ruby"                                       >
@@ -78,7 +78,7 @@
 <!ENTITY % face-markup.class
                         "bold | fixed-case | italic | monospace |
                          overline | overline-start | overline-end |
-                         roman | sans-serif | sc | serif | strike |
+                         roman | sans-serif | sc | strike |
                          underline | underline-start | 
                          underline-end"                              >
 
