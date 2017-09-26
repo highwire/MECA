@@ -65,36 +65,6 @@
 <!--                    PRESENTATION/FORMAT CLASSES                -->
 <!-- ============================================================= -->
 
-<!--                    EMPHASIS/RENDITION ELEMENTS                -->
-<!--                    Elements concerning with marking the location
-                        of typographical emphasis (highlighting)
-                        DTD Design Note: There are no emphasis
-                        elements for <fractur>, <openface> (black
-                        board), <script>, etc. because this DTD
-                        recommends the use of the STIX extensions
-                        to accomplish this, as soon as they are
-                        available.                                 -->
-<!ENTITY % emphasis.class
-                        "bold | fixed-case | italic | monospace |
-                         overline | overline-start | overline-end |
-                         roman | sans-serif | sc | strike |
-                         underline | underline-start | 
-                         underline-end |
-                         ruby"                                       >
-
-
-<!--                    FACE MARKUP ELEMENTS                       -->
-<!--                    All of the emphasis/rendition elements
-                        except <ruby>, for use (initially) inside
-                        <ruby> itself.                             -->
-<!ENTITY % face-markup.class
-                        "bold | fixed-case | italic | monospace |
-                         overline | overline-start | overline-end |
-                         roman | sans-serif | sc | strike |
-                         underline | underline-start | 
-                         underline-end"                              >
-
-
 <!--                    X-GENERATED PUNCTUATION CLASS              -->
 <!--                    Class containing a single element that will
                         hold generated punctuation or other
