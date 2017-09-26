@@ -285,7 +285,7 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
                         CDATA                             #IMPLIED
              specific-use
                         CDATA                             #IMPLIED
-             notation   (LaTeX | tex | TEX | TeX)         
+             notation   NOTATION (LaTeX | tex | TEX | TeX)
                                                           #IMPLIED
              version    CDATA                             #IMPLIED"  >
 
