@@ -215,11 +215,6 @@
 <!--                    MATH ELEMENTS                              -->
 %math.ent;
 
-
-<!--                    NLM CITATION ELEMENT (deprecated)          -->
-%nlmcitation.ent;
-
-
 <!--                    PARAGRAPH-LEVEL ELEMENTS                   -->
 %para.ent;
 
