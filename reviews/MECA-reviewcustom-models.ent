@@ -1092,11 +1092,18 @@
              xml:lang   NMTOKEN                           #IMPLIED"  >
 
 
+<!--                    XLINK LINK NAMESPACE                       -->
+<!ENTITY % xlink.xmlns "http://www.w3.org/1999/xlink" >
+<!ENTITY % xlink.xmlns.attrib
+     "xmlns:xlink        CDATA              #FIXED '%xlink.xmlns;'"
+>
+
+
 <!--                    XLINK LINK ATTRIBUTES                      -->
 <!--                    Attributes for any element that must be a
                         link                                       -->
 <!ENTITY % link-atts
-            "xmlns:xlink CDATA                            #IMPLIED
+            "%xlink.xmlns.attrib;
              xlink:type  (simple)                         #IMPLIED
              xlink:href  CDATA                            #REQUIRED
              xlink:role  CDATA                            #IMPLIED
@@ -1112,7 +1119,7 @@
 <!--                    Attributes for any element that may be a link
                         but need not be one                        -->
 <!ENTITY % might-link-atts
-            "xmlns:xlink CDATA                            #IMPLIED
+            "%xlink.xmlns.attrib;
              xlink:type  (simple)                         #IMPLIED
              xlink:href  CDATA                            #IMPLIED
              xlink:role  CDATA                            #IMPLIED
