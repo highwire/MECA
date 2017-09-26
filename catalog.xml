@@ -326,7 +326,7 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
      <group>
 
        <public publicId="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v88.6 20160331//EN"
-               uri="journalpublishing88.dtd"/>
+               uri="reviews/journalpublishing88.dtd"/>
        ...
      </group>
                                                                     -->
@@ -416,34 +416,34 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!--                    the Archiving and Interchange DTDs (Green)  -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving DTD Customize Mixes Module v1.1 20151215//EN"
-               uri="JATS-archivecustom-mixes1.ent"/>
+               uri="reviews/JATS-archivecustom-mixes1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving DTD Customize Content and Attributes Module v1.1 20151215//EN"
-               uri="JATS-archivecustom-models1.ent"/>
+               uri="reviews/JATS-archivecustom-models1.ent"/>
  
 <!--                    The following modules are used for all of   -->
 <!--                    the Archiving and Interchange DTDs (Green)  -->
 <!--                    that use ONLY the XHTML-based Table Model   -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving DTD Customize Classes Module v1.1 20151215//EN" 
-               uri="JATS-archivecustom-classes1.ent"/>
+               uri="reviews/JATS-archivecustom-classes1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving DTD-Specific Modules v1.1 20151215//EN" 
-               uri="JATS-archivecustom-modules1.ent"/>
+               uri="reviews/JATS-archivecustom-modules1.ent"/>
 
 <!--                    The following modules are used ONLY for the -->
 <!--                    Archiving and Interchange DTDs (Green), that-->
 <!--                    uses XHTML tables with MathML 2.0           -->
 
  <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" 
-               uri="JATS-archivearticle1.dtd"/>
+               uri="reviews/JATS-archivearticle1.dtd"/>
 
 <!--                    The following modules are used ONLY for the -->
 <!--                    Archiving and Interchange DTDs (Green), that-->
 <!--                    uses XHTML tables with MathML 3.0           -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.1 20151215//EN"
-               uri="JATS-archivearticle1-mathml3.dtd"/>
+               uri="reviews/JATS-archivearticle1-mathml3.dtd"/>
 
 
 <!--                    The following modules are used only for all -->
@@ -452,10 +452,10 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!--                    "oasis") and the XHTML table model.         -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables Customize Classes Module v1.1 20151215//EN"
-               uri="JATS-archive-oasis-custom-classes1.ent"/>
+               uri="reviews/JATS-archive-oasis-custom-classes1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables DTD-Specific Modules v1.1 20151215//EN"
-               uri="JATS-archive-oasis-custom-modules1.ent"/>
+               uri="reviews/JATS-archive-oasis-custom-modules1.ent"/>
 
 
 <!--                    The following modules are used ONLY for the -->
@@ -465,7 +465,7 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!--                    MathML 2.0                                  -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables v1.1 20151215//EN"
-               uri="JATS-archive-oasis-article1.dtd"/>
+               uri="reviews/JATS-archive-oasis-article1.dtd"/>
 
 <!--                    The following modules are used ONLY for the -->
 <!--                    Archiving and Interchange DTDs (Green) that -->
@@ -474,7 +474,7 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!--                    MathML 3.0                                  -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN"
-               uri="JATS-archive-oasis-article1-mathml3.dtd"/>
+               uri="reviews/JATS-archive-oasis-article1-mathml3.dtd"/>
               
 </group>
 
@@ -492,99 +492,99 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!--                    MODULE OF MODULES                           -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Module of Modules v1.1 20151215//EN"
-               uri="JATS-modules1.ent"/>
+               uri="reviews/JATS-modules1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS MathML 3.0 Modules v1.1 20151215//EN"
-               uri="JATS-mathml3-modules1.ent"/>
+               uri="reviews/JATS-mathml3-modules1.ent"/>
 
 
 <!--                    CLASSES AND MIXES                           -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Default Element Classes Module v1.1 20151215//EN"
-               uri="JATS-default-classes1.ent"/>
+               uri="reviews/JATS-default-classes1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Default Element Mixes Module v1.1 20151215//EN"
-               uri="JATS-default-mixes1.ent"/>
+               uri="reviews/JATS-default-mixes1.ent"/>
 
 
 <!--                    ELEMENT COMMON (SHARED) ELEMENTS/CHARACTERS -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Common (Shared) Elements Module v1.1 20151215//EN"
-               uri="JATS-common1.ent"/>
+               uri="reviews/JATS-common1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Common Attributes (for all elements) v1.1 20151215//EN"
-               uri="JATS-common-atts1.ent"/>               
+               uri="reviews/JATS-common-atts1.ent"/>               
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Notation Declarations v1.1 20151215//EN"
-               uri="JATS-notat1.ent"/>
+               uri="reviews/JATS-notat1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite XML Special Characters Module v1.1 20151215//EN"
-               uri="JATS-xmlspecchars1.ent"/>
+               uri="reviews/JATS-xmlspecchars1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Custom Special Characters Module v1.1 20151215//EN"
-               uri="JATS-chars1.ent"/>
+               uri="reviews/JATS-chars1.ent"/>
 
 
 <!--                    CLASS MODULES                               -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Journal Article Metadata Elements v1.1 20151215//EN"
-               uri="JATS-articlemeta1.ent"/>
+               uri="reviews/JATS-articlemeta1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Back Matter Elements v1.1 20151215//EN"
-               uri="JATS-backmatter1.ent"/>
+               uri="reviews/JATS-backmatter1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Display Class Elements v1.1 20151215//EN"
-               uri="JATS-display1.ent"/>
+               uri="reviews/JATS-display1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Formatting Element Classes v1.1 20151215//EN"
-               uri="JATS-format1.ent"/>
+               uri="reviews/JATS-format1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Funding Elements v1.1 20151215//EN"
-               uri="JATS-funding1.ent"/>
+               uri="reviews/JATS-funding1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Journal Metadata Elements v1.1 20151215//EN"
-               uri="JATS-journalmeta1.ent"/>
+               uri="reviews/JATS-journalmeta1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Link Class Elements v1.1 20151215//EN"
-               uri="JATS-link1.ent"/>
+               uri="reviews/JATS-link1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite List Class Elements v1.1 20151215//EN"
-               uri="JATS-list1.ent"/>
+               uri="reviews/JATS-list1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Math Class Elements v1.1 20151215//EN"
-               uri="JATS-math1.ent"/>
+               uri="reviews/JATS-math1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) NLM Citation v1.1 20151215//EN"
-               uri="JATS-nlmcitation1.ent"/>
+               uri="reviews/JATS-nlmcitation1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Paragraph-Like Elements v1.1 20151215//EN"
-               uri="JATS-para1.ent"/>
+               uri="reviews/JATS-para1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Subject Phrase Class Elements v1.1 20151215//EN"
-               uri="JATS-phrase1.ent"/>
+               uri="reviews/JATS-phrase1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Bibliographic Reference (Citation) Class Elements v1.1 20151215//EN"
-               uri="JATS-references1.ent"/>
+               uri="reviews/JATS-references1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Related Object Element v1.1 20151215//EN"
-               uri="JATS-related-object1.ent"/>
+               uri="reviews/JATS-related-object1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Section Class Elements v1.1 20151215//EN"
-               uri="JATS-section1.ent"/>
+               uri="reviews/JATS-section1.ent"/>
 
 
 <!--                    SET UP XHTML TABLES (OASIS below)          -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite XHTML Table Setup Module v1.1 20151215//EN"
-               uri="JATS-XHTMLtablesetup1.ent"/>
+               uri="reviews/JATS-XHTMLtablesetup1.ent"/>
 
 <!--                    SET UP MATHML                              -->
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite MathML Setup Module v1.1 20151215//EN"
-               uri="JATS-mathmlsetup1.ent"/>
+               uri="reviews/JATS-mathmlsetup1.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite MathML 3.0 Setup Module v1.1 20151215//EN"
-               uri="JATS-mathml3-mathmlsetup1.ent"/>
+               uri="reviews/JATS-mathml3-mathmlsetup1.ent"/>
 
 </group>
 
@@ -604,17 +604,17 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!-- .............................................................. -->
 
   <public publicId="-//NLM//DTD JATS ALI Namespace Module v1.1 20151215//EN"
-               uri="JATS-ali-namespace1.ent"/>
+               uri="reviews/JATS-ali-namespace1.ent"/>
 
 <!-- .............................................................. -->
 <!--                    TABLES: XHTML TABLE MODULES                 -->
 <!-- .............................................................. -->
 
   <public publicId="-//W3C//ELEMENTS XHTML Tables 1.0//EN"
-               uri="xhtml-table-1.mod"/>
+               uri="reviews/xhtml-table-1.mod"/>
 
   <public publicId="-//W3C//ENTITIES XHTML Inline Style 1.0//EN"
-               uri="xhtml-inlstyle-1.mod"/>
+               uri="reviews/xhtml-inlstyle-1.mod"/>
 
 
 <!-- .............................................................. -->
@@ -622,13 +622,13 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!-- .............................................................. -->
 
   <public publicId="-//NLM//DTD JATS OASIS Table Namespace Module v1.1 20151215//EN"
-               uri="JATS-oasis-namespace1.ent"/>
+               uri="reviews/JATS-oasis-namespace1.ent"/>
 
   <public publicId="-//OASIS//DTD XML Exchange Table Model 19990315//EN"
-               uri="oasis-exchange.ent"/>
+               uri="reviews/oasis-exchange.ent"/>
 
   <public publicId="-//NLM//DTD JATS (Z39.96) Namespaced OASIS XML Table Setup Module v1.1 20151215//EN"
-               uri="JATS-oasis-tablesetup1.ent"/>
+               uri="reviews/JATS-oasis-tablesetup1.ent"/>
  
 
 <!-- .............................................................. -->
@@ -636,23 +636,23 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!-- .............................................................. -->
 
   <public publicId="-//W3C//DTD MathML 2.0//EN"
-               uri="mathml2.dtd"/>
+               uri="reviews/mathml2.dtd"/>
   <public publicId="-//W3C//ENTITIES MathML 2.0 Qualified Names 1.0//EN"
-               uri="mathml2-qname-1.mod"/>
+               uri="reviews/mathml2-qname-1.mod"/>
   <public publicId="-//W3C//ENTITIES Extra for MathML 2.0//EN"
-               uri="mathml/mmlextra.ent"/>
+               uri="reviews/mathml/mmlextra.ent"/>
   <public publicId="-//W3C//ENTITIES Aliases for MathML 2.0//EN"
-               uri="mathml/mmlalias.ent"/>
+               uri="reviews/mathml/mmlalias.ent"/>
 
 
   <public publicId="-//W3C//DTD MathML 3.0//EN"
-               uri="mathml3.dtd"/>
+               uri="reviews/mathml3.dtd"/>
   <public publicId="-//W3C//ENTITIES MathML 3.0 Qualified Names 1.0//EN" 
-               uri="mathml3-qname1.mod"/>
+               uri="reviews/mathml3-qname1.mod"/>
   <public publicId="-//W3C//ENTITIES Extra for MathML 3.0//EN" 
-               uri="mathml/mmlextra.ent"/>
+               uri="reviews/mathml/mmlextra.ent"/>
   <public publicId="-//W3C//ENTITIES Aliases for MathML 3.0//EN"
-               uri="mathml/mmlalias.ent"/>
+               uri="reviews/mathml/mmlalias.ent"/>
 
 
 <!-- .............................................................. -->
@@ -661,78 +661,78 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 
 
   <public publicId="-//W3C//ENTITIES Box and Line Drawing for MathML 2.0//EN"
-               uri="iso8879/isobox.ent"/>
+               uri="reviews/iso8879/isobox.ent"/>
 
   <public publicId="-//W3C//ENTITIES Russian Cyrillic for MathML 2.0//EN"
-               uri="iso8879/isocyr1.ent"/>
+               uri="reviews/iso8879/isocyr1.ent"/>
 
   <public publicId="-//W3C//ENTITIES Non-Russian Cyrillic for MathML 2.0//EN"
-               uri="iso8879/isocyr2.ent"/>
+               uri="reviews/iso8879/isocyr2.ent"/>
 
   <public publicId="-//W3C//ENTITIES Diacritical Marks for MathML 2.0//EN"
-               uri="iso8879/isodia.ent"/>
+               uri="reviews/iso8879/isodia.ent"/>
 
   <public publicId="-//W3C//ENTITIES Added Latin 1 for MathML 2.0//EN"
-               uri="iso8879/isolat1.ent"/>
+               uri="reviews/iso8879/isolat1.ent"/>
 
   <public publicId="-//W3C//ENTITIES Added Latin 2 for MathML 2.0//EN"
-               uri="iso8879/isolat2.ent"/>
+               uri="reviews/iso8879/isolat2.ent"/>
 
   <public publicId="-//W3C//ENTITIES Numeric and Special Graphic for MathML 2.0//EN"
-               uri="iso8879/isonum.ent"/>
+               uri="reviews/iso8879/isonum.ent"/>
 
   <public publicId="-//W3C//ENTITIES Publishing for MathML 2.0//EN"
-               uri="iso8879/isopub.ent"/>
+               uri="reviews/iso8879/isopub.ent"/>
 
 <!-- .............................................................. -->
 <!--                    ISO 9573-11 ENTITIES                        -->
 <!-- .............................................................. -->
 
   <public publicId="-//W3C//ENTITIES General Technical for MathML 2.0//EN"
-               uri="iso9573-13/isotech.ent"/>
+               uri="reviews/iso9573-13/isotech.ent"/>
 
   <public publicId="-//W3C//ENTITIES Greek Symbols for MathML 2.0//EN"
-               uri="iso9573-13/isogrk3.ent"/>
+               uri="reviews/iso9573-13/isogrk3.ent"/>
 
   <public publicId="-//W3C//ENTITIES Math Alphabets: Script for MathML 2.0//EN"
-               uri="iso9573-13/isomscr.ent"/>
+               uri="reviews/iso9573-13/isomscr.ent"/>
 
   <public publicId="-//W3C//ENTITIES Added Math Symbols: Arrow Relations for MathML 2.0//EN"
-               uri="iso9573-13/isoamsa.ent"/>
+               uri="reviews/iso9573-13/isoamsa.ent"/>
 
   <public publicId="-//W3C//ENTITIES Added Math Symbols: Binary Operators for MathML 2.0//EN"
-               uri="iso9573-13/isoamsb.ent"/>
+               uri="reviews/iso9573-13/isoamsb.ent"/>
 
   <public publicId="-//W3C//ENTITIES Added Math Symbols: Delimiters for MathML 2.0//EN"
-               uri="iso9573-13/isoamsc.ent"/>
+               uri="reviews/iso9573-13/isoamsc.ent"/>
 
   <public publicId="-//W3C//ENTITIES Added Math Symbols: Negated Relations for MathML 2.0//EN"
-               uri="iso9573-13/isoamsn.ent"/>
+               uri="reviews/iso9573-13/isoamsn.ent"/>
 
   <public publicId="-//W3C//ENTITIES Added Math Symbols: Ordinary for MathML 2.0//EN"
-               uri="iso9573-13/isoamso.ent"/>
+               uri="reviews/iso9573-13/isoamso.ent"/>
 
   <public publicId="-//W3C//ENTITIES Added Math Symbols: Relations for MathML 2.0//EN"
-               uri="iso9573-13/isoamsr.ent"/>
+               uri="reviews/iso9573-13/isoamsr.ent"/>
 
   <public publicId="-//W3C//ENTITIES Math Alphabets: Fraktur for MathML 2.0//EN"
-               uri="iso9573-13/isomfrk.ent"/>
+               uri="reviews/iso9573-13/isomfrk.ent"/>
 
   <public publicId="-//W3C//ENTITIES Math Alphabets: Open Face for MathML 2.0//EN"
-               uri="iso9573-13/isomopf.ent"/>
+               uri="reviews/iso9573-13/isomopf.ent"/>
 
 <!-- .............................................................. -->
 <!--                    NON-MATHML ENTITIES(backwards compatibility)-->
 <!-- .............................................................. -->
 
   <public publicId="-//W3C//ENTITIES Greek Letters//EN"
-               uri="xmlchars/isogrk1.ent"/>
+               uri="reviews/xmlchars/isogrk1.ent"/>
 
   <public publicId="-//W3C//ENTITIES Monotoniko Greek//EN"
-               uri="xmlchars/isogrk2.ent"/>
+               uri="reviews/xmlchars/isogrk2.ent"/>
 
   <public publicId="-//W3C//ENTITIES Alternative Greek Symbols//EN"
-               uri="xmlchars/isogrk4.ent"/>
+               uri="reviews/xmlchars/isogrk4.ent"/>
 
 </group>
 
@@ -753,16 +753,16 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!--                    that use ONLY the XHTML-based Table Model   -->
 
   <public publicId="-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN"
-               uri="BITS-book2.dtd"/>
+               uri="reviews/BITS-book2.dtd"/>
 
   <public publicId="-//NLM//DTD BITS Book Interchange DTD-Specific Modules v2.0 20151225//EN" 
-               uri="BITS-bookcustom-modules2.ent"/>
+               uri="reviews/BITS-bookcustom-modules2.ent"/>
  
   <public publicId="-//NLM//DTD BITS Book Interchange DTD Customize Classes Module v2.0 20151225//EN" 
-               uri="BITS-bookcustom-classes2.ent"/>
+               uri="reviews/BITS-bookcustom-classes2.ent"/>
               
   <public publicId="-//NLM//DTD BITS Book Part Wrapper v2.0 20151225//EN" 
-               uri="BITS-book-part-wrap2.ent" /> 
+               uri="reviews/BITS-book-part-wrap2.ent" /> 
 
 <!--                    The following modules are used ONLY for the -->
 <!--                    BITS DTDS that                              -->
@@ -770,58 +770,58 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!--                    "oasis") and the XHTML table model          -->
              
   <public publicId="-//NLM//DTD BITS Book Interchange DTD with OASIS and XHTML Tables v2.0 20151225//EN"
-               uri="BITS-book-oasis2.dtd" />
+               uri="reviews/BITS-book-oasis2.dtd" />
 
   <public publicId="-//NLM//DTD BITS Book Interchange DTD-Specific Modules with OASIS and XHTML Tables v2.0 20151225//EN"
-               uri="BITS-book-oasis-custom-modules2.ent" />
+               uri="reviews/BITS-book-oasis-custom-modules2.ent" />
 
   <public publicId="-//NLM//DTD BITS Book Interchange DTD with OASIS and XHTML Tables Customize Classes Module v2.0 20151225//EN"
-               uri="BITS-book-oasis-custom-classes2.ent" />
+               uri="reviews/BITS-book-oasis-custom-classes2.ent" />
                
   <public publicId="-//NLM//DTD BITS Book Part OASIS and XTHML Tables Wrapper v2.0 20151225//EN"  
-               uri="BITS-book-part-oasis-wrap2.ent" /> 
+               uri="reviews/BITS-book-part-oasis-wrap2.ent" /> 
               
 <!--                    The following modules are used for ALL of   -->
 <!--                    the BITS DTDs (Chocolate)                 -->
 
   <public publicId="-//NLM//DTD BITS Book Interchange DTD Customize Mixes Module v2.0 20151225//EN"
-               uri="BITS-bookcustom-mixes2.ent"/>
+               uri="reviews/BITS-bookcustom-mixes2.ent"/>
 
   <public publicId="-//NLM//DTD BITS Book Interchange DTD Customize Content and Attributes Module v2.0 20151225//EN" 
-               uri="BITS-bookcustom-models2.ent"/>
+               uri="reviews/BITS-bookcustom-models2.ent"/>
 
 
                
   <public publicId="-//NLM//DTD BITS Add Attributes Module v2.0 20151225//EN"  
-               uri="BITS-add-attributes2.ent"  /> 
+               uri="reviews/BITS-add-attributes2.ent"  /> 
 
   <public publicId="-//NLM//DTD BITS Book Metadata Elements Module v2.0 20151225//EN"  
-               uri="BITS-bookmeta2.ent"/>
+               uri="reviews/BITS-bookmeta2.ent"/>
 
   <public publicId="-//NLM//DTD BITS Book Component Elements v2.0 20151225//EN"  
-               uri="BITS-book-part2.ent"/>
+               uri="reviews/BITS-book-part2.ent"/>
                
   <public publicId="-//NLM//DTD BITS Book Interchange DTD Common Module v2.0 20151225//EN" 
-               uri="BITS-common2.ent" />  
+               uri="reviews/BITS-common2.ent" />  
  
  
   <public publicId="-//NLM//DTD BITS Embedded Index Element Module v2.0 20151225//EN"
-               uri="BITS-embedded-index2.ent"/> 
+               uri="reviews/BITS-embedded-index2.ent"/> 
 
   <public publicId="-//NLM//DTD BITS Structural Index Elements Module v2.0 20151225//EN" 
-               uri="BITS-index2.ent"/> 
+               uri="reviews/BITS-index2.ent"/> 
 
   <public publicId="-//NLM//DTD BITS Structural Table of Contents Module v2.0 20151225//EN"
-               uri="BITS-toc2.ent"/> 
+               uri="reviews/BITS-toc2.ent"/> 
                
   <public publicId="-//NLM//DTD BITS Question and Answer Module v2.0 20151225//EN"  
-               uri="BITS-question-answer2.ent"  /> 
+               uri="reviews/BITS-question-answer2.ent"  /> 
 
   <public publicId="-//NLM//DTD BITS Table of Contents and Index Navigation Module v2.0 20151225//EN"
-               uri="BITS-toc-index-nav2.ent"/> 
+               uri="reviews/BITS-toc-index-nav2.ent"/> 
                
   <public publicId="-//NLM//DTD BITS XInclude Setup Module v2.0 20151225//EN" 
-               uri="BITS-xinclude2.ent" /> 
+               uri="reviews/BITS-xinclude2.ent" /> 
  
 </group>
 
@@ -832,22 +832,22 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
 <!-- ============================================================== -->
 
   <public publicId="-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD v1.0//EN"
-    uri="MECA-review1.dtd"/>
+    uri="reviews/MECA-review1.dtd"/>
   
   <public publicId="-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD-Specific Modules v1.0//EN" 
-    uri="MECA-reviewcustom-modules.ent"/>
+    uri="reviews/MECA-reviewcustom-modules.ent"/>
   
   <public publicId="-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD Customize Classes Module v1.0//EN" 
-    uri="MECA-reviewcustom-classes.ent"/>
+    uri="reviews/MECA-reviewcustom-classes.ent"/>
   
   <public publicId="-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD Customize Mixes Module v2.0 20151225//EN"
-    uri="MECA-reviewcustom-mixes.ent"/>
+    uri="reviews/MECA-reviewcustom-mixes.ent"/>
   
   <public publicId="-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD Customize Content and Attributes Module v1.0//EN" 
-    uri="MECA-reviewcustom-models.ent"/>
+    uri="reviews/MECA-reviewcustom-models.ent"/>
   
   <public publicId="-//MECA//DTD Manuscript Exchange Common Approach Reviews DTD Common Module v1.0//EN" 
-    uri="MECA-common.ent" />  
+    uri="reviews/MECA-common.ent" />  
   
   
 <!-- ================ End WITH Base OASIS XML CATALOG ============= -->
