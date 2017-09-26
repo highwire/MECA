@@ -515,15 +515,6 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
   <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Common Attributes (for all elements) v1.1 20151215//EN"
                uri="reviews/JATS-common-atts1.ent"/>               
 
-  <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Notation Declarations v1.1 20151215//EN"
-               uri="reviews/JATS-notat1.ent"/>
-
-  <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite XML Special Characters Module v1.1 20151215//EN"
-               uri="reviews/JATS-xmlspecchars1.ent"/>
-
-  <public publicId="-//NLM//DTD JATS (Z39.96) JATS DTD Suite Custom Special Characters Module v1.1 20151215//EN"
-               uri="reviews/JATS-chars1.ent"/>
-
 
 <!--                    CLASS MODULES                               -->
 
@@ -606,6 +597,7 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
   <public publicId="-//NLM//DTD JATS ALI Namespace Module v1.1 20151215//EN"
                uri="reviews/JATS-ali-namespace1.ent"/>
 
+
 <!-- .............................................................. -->
 <!--                    TABLES: XHTML TABLE MODULES                 -->
 <!-- .............................................................. -->
@@ -617,33 +609,9 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
                uri="reviews/xhtml-inlstyle-1.mod"/>
 
 
-<!-- .............................................................. -->
-<!--                    TABLES: OASIS EXCHANGE TABLE MODULES        -->
-<!-- .............................................................. -->
-
-  <public publicId="-//NLM//DTD JATS OASIS Table Namespace Module v1.1 20151215//EN"
-               uri="reviews/JATS-oasis-namespace1.ent"/>
-
-  <public publicId="-//OASIS//DTD XML Exchange Table Model 19990315//EN"
-               uri="reviews/oasis-exchange.ent"/>
-
-  <public publicId="-//NLM//DTD JATS (Z39.96) Namespaced OASIS XML Table Setup Module v1.1 20151215//EN"
-               uri="reviews/JATS-oasis-tablesetup1.ent"/>
- 
-
-<!-- .............................................................. -->
+  <!-- .............................................................. -->
 <!--                    MATHML MODULES                              -->
 <!-- .............................................................. -->
-
-  <public publicId="-//W3C//DTD MathML 2.0//EN"
-               uri="reviews/mathml2.dtd"/>
-  <public publicId="-//W3C//ENTITIES MathML 2.0 Qualified Names 1.0//EN"
-               uri="reviews/mathml2-qname-1.mod"/>
-  <public publicId="-//W3C//ENTITIES Extra for MathML 2.0//EN"
-               uri="reviews/mathml/mmlextra.ent"/>
-  <public publicId="-//W3C//ENTITIES Aliases for MathML 2.0//EN"
-               uri="reviews/mathml/mmlalias.ent"/>
-
 
   <public publicId="-//W3C//DTD MathML 3.0//EN"
                uri="reviews/mathml3.dtd"/>
@@ -654,85 +622,6 @@ Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
   <public publicId="-//W3C//ENTITIES Aliases for MathML 3.0//EN"
                uri="reviews/mathml/mmlalias.ent"/>
 
-
-<!-- .............................................................. -->
-<!--                    ISO 8879 ENTITIES                           -->
-<!-- .............................................................. -->
-
-
-  <public publicId="-//W3C//ENTITIES Box and Line Drawing for MathML 2.0//EN"
-               uri="reviews/iso8879/isobox.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Russian Cyrillic for MathML 2.0//EN"
-               uri="reviews/iso8879/isocyr1.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Non-Russian Cyrillic for MathML 2.0//EN"
-               uri="reviews/iso8879/isocyr2.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Diacritical Marks for MathML 2.0//EN"
-               uri="reviews/iso8879/isodia.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Added Latin 1 for MathML 2.0//EN"
-               uri="reviews/iso8879/isolat1.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Added Latin 2 for MathML 2.0//EN"
-               uri="reviews/iso8879/isolat2.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Numeric and Special Graphic for MathML 2.0//EN"
-               uri="reviews/iso8879/isonum.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Publishing for MathML 2.0//EN"
-               uri="reviews/iso8879/isopub.ent"/>
-
-<!-- .............................................................. -->
-<!--                    ISO 9573-11 ENTITIES                        -->
-<!-- .............................................................. -->
-
-  <public publicId="-//W3C//ENTITIES General Technical for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isotech.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Greek Symbols for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isogrk3.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Math Alphabets: Script for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isomscr.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Added Math Symbols: Arrow Relations for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isoamsa.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Added Math Symbols: Binary Operators for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isoamsb.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Added Math Symbols: Delimiters for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isoamsc.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Added Math Symbols: Negated Relations for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isoamsn.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Added Math Symbols: Ordinary for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isoamso.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Added Math Symbols: Relations for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isoamsr.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Math Alphabets: Fraktur for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isomfrk.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Math Alphabets: Open Face for MathML 2.0//EN"
-               uri="reviews/iso9573-13/isomopf.ent"/>
-
-<!-- .............................................................. -->
-<!--                    NON-MATHML ENTITIES(backwards compatibility)-->
-<!-- .............................................................. -->
-
-  <public publicId="-//W3C//ENTITIES Greek Letters//EN"
-               uri="reviews/xmlchars/isogrk1.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Monotoniko Greek//EN"
-               uri="reviews/xmlchars/isogrk2.ent"/>
-
-  <public publicId="-//W3C//ENTITIES Alternative Greek Symbols//EN"
-               uri="reviews/xmlchars/isogrk4.ent"/>
 
 </group>
 

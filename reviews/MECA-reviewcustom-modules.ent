@@ -133,4 +133,19 @@
 "JATS-common-atts1.ent"                                              >
 
 
+
+<!-- ============================================================= -->
+<!--                    IGNORE THE MATHML ENTITIES                 -->
+<!-- ============================================================= -->
+
+<!--                    MATHML 3.0 EXTRA ENTITIES                  -->
+<!ENTITY % ent-mmlextra
+                        ""                                           >
+
+
+<!--                    MATHML 3.0 ALIASES                         -->
+<!ENTITY % ent-mmlalias
+                        ""                                           >
+
+
 <!-- ================= End MECA Review DTD Module of Modules ===== -->

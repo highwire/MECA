@@ -262,22 +262,6 @@
 %XHTMLtablesetup.ent;
 
 
-<!--                    SPECIAL CHARACTERS DECLARATIONS            -->
-<!--                    Standard XML special character entities
-                        used in this DTD                           -->
-<!--%xmlspecchars.ent;-->
-
-
-<!--                    CUSTOM SPECIAL CHARACTERS DECLARATIONS     -->
-<!--                    Custom special character entities created
-                        specifically for use in this DTD Suite     -->
-%chars.ent;
-
-
-<!--                    NOTATION DECLARATIONS MODULE               -->
-%notat.ent;
-
-
 <!--                    BITS QUESTION AND ANSWER MODULE            -->
 <!--                    Element declarations for BITS questions
                         and answers (not complete tests, but used

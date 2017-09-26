@@ -650,6 +650,18 @@
                          %simple-display-noalt.class;"               >
 
 
+<!--                    TEX MATH ATTRIBUTES                        -->
+<!--                    Attributes for the <disp-formula> element  -->
+<!ENTITY % tex-math-atts
+            "%jats-common-atts;                                       
+             content-type
+                        CDATA                             #IMPLIED
+             specific-use
+                        CDATA                             #IMPLIED
+             notation   (LaTeX | tex | TEX | TeX)         
+                                                          #IMPLIED
+             version    CDATA                             #IMPLIED"  >
+
 <!--                    TEXTUAL FORM ELEMENTS                      -->
 <!--                    Model for the <textual-form> element.
                         Added <label>                              -->
