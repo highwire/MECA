@@ -49,6 +49,29 @@
                          named-content | styled-content"             >
 
 
+<!--                    INLINE DISPLAY CLASS ELEMENTS              -->
+<!--                    Non-block display elements that set or
+                        display inline with the text               -->
+<!ENTITY % inline-display.class
+                        "alternatives | inline-graphic"              >
+
+
+<!ENTITY % inline-display-noalt.class
+                        "inline-graphic"                             >
+
+
+<!--                    ALTERNATIVES DISPLAY CLASS ELEMENTS        -->
+<!--                    Display elements that can be alternatives to
+                        each  other inside an alternatives element.
+                                                                   -->
+<!ENTITY % alternatives-display.class
+                        "array | chem-struct | code | graphic |
+                         inline-graphic |
+                         inline-supplementary-material |
+                         media | preformat | supplementary-material |
+                         table | textual-form"                       >
+
+
 <!-- ============================================================= -->
 <!--                    PRESENTATION/FORMAT CLASSES                -->
 <!-- ============================================================= -->

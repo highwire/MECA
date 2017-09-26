@@ -128,7 +128,6 @@ copyright-statement =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -205,7 +204,6 @@ license-p =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -299,7 +297,6 @@ article-title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -361,7 +358,6 @@ aff =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -431,7 +427,6 @@ conf-loc =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -491,7 +486,6 @@ conf-name =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -542,7 +536,6 @@ conf-sponsor =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -630,7 +623,6 @@ issue =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -701,7 +693,6 @@ issue-part =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -752,7 +743,6 @@ issue-sponsor =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -803,7 +793,6 @@ issue-title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -863,7 +852,6 @@ role =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -924,7 +912,6 @@ trans-subtitle =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -976,7 +963,6 @@ trans-title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1029,7 +1015,6 @@ volume =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1091,7 +1076,6 @@ volume-id =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1142,7 +1126,6 @@ volume-series =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1208,7 +1191,6 @@ anonymous =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1258,7 +1240,6 @@ etal =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1308,7 +1289,6 @@ on-behalf-of =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1367,7 +1347,6 @@ publisher-name =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1428,7 +1407,6 @@ publisher-loc =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1542,7 +1520,6 @@ mixed-citation =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | label
@@ -1662,7 +1639,6 @@ element-citation =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | label
@@ -1795,7 +1771,6 @@ addr-line =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1883,7 +1858,6 @@ email =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1933,7 +1907,6 @@ fax =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -1994,7 +1967,6 @@ institution =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2061,7 +2033,6 @@ phone =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2140,7 +2111,6 @@ uri =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2191,7 +2161,6 @@ supplement =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2305,7 +2274,6 @@ string-date =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2399,7 +2367,6 @@ collab =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2484,7 +2451,6 @@ string-name =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2540,7 +2506,6 @@ degrees =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2589,7 +2554,6 @@ given-names =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2638,7 +2602,6 @@ surname =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2689,7 +2652,6 @@ prefix =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2740,7 +2702,6 @@ suffix =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2802,7 +2763,6 @@ ext-link =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2852,7 +2812,6 @@ attrib =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2917,7 +2876,6 @@ label =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -2996,7 +2954,6 @@ title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -3067,7 +3024,6 @@ related-article =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | journal-id
@@ -3179,7 +3135,6 @@ sig-block =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -3240,7 +3195,6 @@ sig =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -3511,7 +3465,6 @@ meta-name =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -3559,7 +3512,6 @@ meta-value =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -3590,7 +3542,6 @@ alternatives =
      | inline-supplementary-material
      | media
      | preformat
-     | private-char
      | supplementary-material
      | table
      | textual-form
@@ -3620,7 +3571,6 @@ textual-form =
      | underline-end
      | ruby
      | inline-graphic
-     | private-char
      | label
      | tex-math
      | mml.math
@@ -3769,7 +3719,6 @@ subject =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -3819,7 +3768,6 @@ compound-subject-part =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | named-content
@@ -3859,7 +3807,6 @@ series-title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -3910,7 +3857,6 @@ series-text =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -3980,7 +3926,6 @@ product =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | label
@@ -4108,7 +4053,6 @@ self-uri =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4272,7 +4216,6 @@ kwd =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4330,7 +4273,6 @@ compound-kwd-part =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4389,7 +4331,6 @@ unstructured-kwd-group =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4449,7 +4390,6 @@ corresp =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4540,7 +4480,6 @@ conf-acronym =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4591,7 +4530,6 @@ conf-num =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4642,7 +4580,6 @@ conf-theme =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4693,7 +4630,6 @@ string-conf =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4825,7 +4761,6 @@ subtitle =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -4877,7 +4812,6 @@ alt-title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -5215,7 +5149,6 @@ chem-struct =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -5456,7 +5389,6 @@ preformat =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -5687,7 +5619,6 @@ bold =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -5738,7 +5669,6 @@ fixed-case =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -5789,7 +5719,6 @@ italic =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -5840,7 +5769,6 @@ monospace =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -5891,7 +5819,6 @@ roman =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -5942,7 +5869,6 @@ sans-serif =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -5993,7 +5919,6 @@ sc =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6044,7 +5969,6 @@ overline =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6095,7 +6019,6 @@ strike =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6146,7 +6069,6 @@ sub =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6197,7 +6119,6 @@ sup =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6249,7 +6170,6 @@ underline =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6340,7 +6260,6 @@ rb =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6426,7 +6345,6 @@ funding-statement =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6523,7 +6441,6 @@ funding-source =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6587,7 +6504,6 @@ award-id =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6685,7 +6601,6 @@ journal-title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6736,7 +6651,6 @@ journal-subtitle =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6787,7 +6701,6 @@ abbrev-journal-title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6849,7 +6762,6 @@ target =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6903,7 +6815,6 @@ xref =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -6969,7 +6880,6 @@ inline-supplementary-material =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7034,7 +6944,6 @@ term-head =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7082,7 +6991,6 @@ def-head =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7143,7 +7051,6 @@ term =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7226,7 +7133,6 @@ inline-formula =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7277,7 +7183,6 @@ disp-formula =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7365,7 +7270,6 @@ p =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7509,7 +7413,6 @@ speaker =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7591,7 +7494,6 @@ verse-line =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7654,7 +7556,6 @@ abbrev =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7740,7 +7641,6 @@ named-content =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7823,7 +7723,6 @@ styled-content =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -7994,7 +7893,6 @@ chapter-title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8046,7 +7944,6 @@ comment =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8161,7 +8058,6 @@ edition =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8212,7 +8108,6 @@ gov =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8262,7 +8157,6 @@ part-title =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8315,7 +8209,6 @@ patent =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8405,7 +8298,6 @@ series =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8490,7 +8382,6 @@ std-organization =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8544,7 +8435,6 @@ source =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8604,7 +8494,6 @@ trans-source =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8657,7 +8546,6 @@ version =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -8728,7 +8616,6 @@ related-object =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | label
@@ -23554,7 +23441,6 @@ th =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -23637,7 +23523,6 @@ td =
      | ruby
      | alternatives
      | inline-graphic
-     | private-char
      | chem-struct
      | inline-formula
      | tex-math
@@ -24018,7 +23903,6 @@ book-word-count |= notAllowed
 index-term |= notAllowed
 index-term-range-end |= notAllowed
 name-address-wrap |= notAllowed
-private-char |= notAllowed
 start =
   app-group
   | count

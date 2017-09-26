@@ -92,7 +92,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -146,7 +145,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -191,7 +189,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -213,7 +210,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -258,7 +254,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -284,7 +279,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -308,7 +302,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -372,7 +365,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -419,7 +411,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -444,7 +435,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -468,7 +458,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -502,7 +491,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -538,7 +526,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -560,7 +547,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -584,7 +570,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -609,7 +594,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -646,7 +630,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -683,7 +666,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -705,7 +687,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -727,7 +708,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -757,7 +737,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -782,7 +761,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -862,7 +840,6 @@
                          underline | underline-start |
                          underline-end |
                          ruby  | alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | label |
                          tex-math | mml:math |  abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -919,7 +896,6 @@
                          underline | underline-start |
                          underline-end |
                          ruby  | alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | label |
                          tex-math | mml:math |  abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -988,7 +964,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1035,7 +1010,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1069,7 +1043,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1092,7 +1065,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1145,7 +1117,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1188,7 +1159,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1222,7 +1192,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1309,7 +1278,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1349,7 +1317,6 @@
                          underline | underline-start |
                          underline-end |
                          ruby | alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1416,7 +1383,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1444,7 +1410,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1468,7 +1433,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1488,7 +1452,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1508,7 +1471,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1532,7 +1494,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1556,7 +1517,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1592,7 +1552,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1624,7 +1583,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1661,7 +1619,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1693,7 +1650,6 @@
                          underline | underline-start |
                          underline-end |
                          ruby | alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | journal-id |
                          label | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
@@ -1757,7 +1713,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1784,7 +1739,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1959,7 +1913,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1978,7 +1931,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -1991,9 +1943,8 @@
 <!ELEMENT  alternatives (array | chem-struct | code | graphic |
                          inline-graphic |
                          inline-supplementary-material |
-                         media | preformat |private-char |
-                         supplementary-material | table |
-                         textual-form |
+                         media | preformat | supplementary-material |
+                         table | textual-form |
                           tex-math | mml:math)+                         >
 <!ATTLIST  alternatives
              id         ID                                #IMPLIED
@@ -2005,7 +1956,7 @@
                          underline | underline-start |
                          underline-end |
                          ruby |
-                         inline-graphic | private-char |
+                         inline-graphic |
                          label | tex-math | mml:math |
                          named-content | styled-content | sub | sup)*           >
 <!ATTLIST  textual-form
@@ -2094,7 +2045,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2121,7 +2071,6 @@
                          underline | underline-start |
                          underline-end |
                          ruby | alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula |
                          named-content | styled-content | sub | sup)*  >
 <!ATTLIST  compound-subject-part
@@ -2139,7 +2088,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2163,7 +2111,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2199,7 +2146,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | label |
                          tex-math | mml:math | abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2257,7 +2203,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2360,7 +2305,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2389,7 +2333,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2418,7 +2361,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2444,7 +2386,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2504,7 +2445,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2528,7 +2468,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2552,7 +2491,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2576,7 +2514,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2661,7 +2598,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2685,7 +2621,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -2881,7 +2816,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3061,7 +2995,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3223,7 +3156,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3245,7 +3177,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3268,7 +3199,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3290,7 +3220,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3312,7 +3241,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3334,7 +3262,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3356,7 +3283,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3378,7 +3304,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3400,7 +3325,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3422,7 +3346,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3444,7 +3367,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3466,7 +3388,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3532,7 +3453,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3582,7 +3502,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3647,7 +3566,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3683,7 +3601,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3761,7 +3678,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3786,7 +3702,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3811,7 +3726,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3845,7 +3759,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3869,7 +3782,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3896,7 +3808,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3950,7 +3861,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3969,7 +3879,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -3996,7 +3905,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4047,7 +3955,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4071,7 +3978,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4125,7 +4031,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4200,7 +4105,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4249,7 +4153,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4273,7 +4176,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4335,7 +4237,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4385,7 +4286,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4497,7 +4397,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4519,7 +4418,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4580,7 +4478,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4605,7 +4502,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4629,7 +4525,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4651,7 +4546,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4709,7 +4603,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4751,7 +4644,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4776,7 +4668,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4809,7 +4700,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4833,7 +4723,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -4861,7 +4750,6 @@
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | label |
                          tex-math | mml:math | abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -13173,7 +13061,6 @@ xmlns:mml  CDATA   #FIXED 'http://www.w3.org/1998/Math/MathML'
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
@@ -13225,7 +13112,6 @@ xmlns:mml  CDATA   #FIXED 'http://www.w3.org/1998/Math/MathML'
                          underline-end |
                          ruby  |
                          alternatives | inline-graphic |
-                         private-char |
                          chem-struct | inline-formula | tex-math | mml:math |
                          abbrev | index-term | index-term-range-end |
                          milestone-end | milestone-start |
