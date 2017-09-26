@@ -93,8 +93,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*    >
 <!ATTLIST  copyright-statement
@@ -146,8 +145,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x |
                          address |
@@ -190,8 +188,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*          >
 <!ATTLIST  article-title
@@ -211,8 +208,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x |
                            break | label)*                    >
@@ -255,8 +251,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | addr-line | city | country | fax |
                          institution | institution-wrap | phone |
@@ -280,8 +275,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*              >
 <!ATTLIST  conf-name
@@ -303,8 +297,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | institution | institution-wrap)*           >
 <!ATTLIST  conf-sponsor
@@ -366,8 +359,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                  >
 <!ATTLIST  issue
@@ -412,8 +404,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*             >
 <!ATTLIST  issue-part
@@ -436,8 +427,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*          >
 <!ATTLIST  issue-sponsor
@@ -459,8 +449,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*            >
 <!ATTLIST  issue-title
@@ -492,8 +481,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                   >
 <!ATTLIST  role
@@ -527,8 +515,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*         >
 <!ATTLIST  trans-subtitle
@@ -548,8 +535,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*            >
 <!ATTLIST  trans-title
@@ -571,8 +557,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x )*                 >
 <!ATTLIST  volume
@@ -595,8 +580,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x )*              >
 <!ATTLIST  volume-id
@@ -631,8 +615,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x )*          >
 <!ATTLIST  volume-series
@@ -667,8 +650,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                            >
 <!ATTLIST  anonymous
@@ -688,8 +670,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                                 >
 <!ATTLIST  etal
@@ -709,8 +690,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | institution | institution-wrap)*           >
 <!ATTLIST  on-behalf-of
@@ -738,8 +718,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x| institution | institution-wrap)*         >
 <!ATTLIST  publisher-name
@@ -762,8 +741,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x |
                          break)*          >
@@ -841,8 +819,7 @@
                          underline-end |
                          ruby  | alternatives | inline-graphic |
                          chem-struct | inline-formula | label |
-                         tex-math | mml:math |  abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         tex-math | mml:math |  abbrev | milestone-end | milestone-start |
                          named-content | styled-content |
                          annotation | article-title | chapter-title |
                          collab | collab-alternatives |comment |
@@ -897,8 +874,7 @@
                          underline-end |
                          ruby  | alternatives | inline-graphic |
                          chem-struct | inline-formula | label |
-                         tex-math | mml:math |  abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         tex-math | mml:math |  abbrev | milestone-end | milestone-start |
                          named-content | styled-content |
                          annotation | article-title | chapter-title |
                          collab | collab-alternatives |comment |
@@ -965,8 +941,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | city | country | fax | institution |
                          institution-wrap | phone |
@@ -1011,8 +986,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                  >
 <!ATTLIST  email
@@ -1044,8 +1018,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x )*                    >
 <!ATTLIST  fax
@@ -1066,8 +1039,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*            >
 <!ATTLIST  institution
@@ -1118,8 +1090,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                  >
 <!ATTLIST  phone
@@ -1160,8 +1131,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                    >
 <!ATTLIST  uri
@@ -1193,8 +1163,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | contrib-group |
                          label | title)*             >
@@ -1279,8 +1248,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | day | era | month | season | year)*            >
 <!ATTLIST  string-date
@@ -1318,8 +1286,7 @@
                          underline-end |
                          ruby | alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | sub | sup | x)*                 >
 <!ATTLIST  collab
              id         ID                                #IMPLIED
@@ -1384,8 +1351,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | degrees | given-names | prefix | surname |
                          suffix)*            >
@@ -1411,8 +1377,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                >
 <!ATTLIST  degrees
@@ -1434,8 +1399,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*            >
 <!ATTLIST  given-names
@@ -1453,8 +1417,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x )*                >
 <!ATTLIST  surname
@@ -1472,8 +1435,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                 >
 <!ATTLIST  prefix
@@ -1495,8 +1457,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                 >
 <!ATTLIST  suffix
@@ -1518,8 +1479,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*               >
 <!ATTLIST  ext-link
@@ -1553,8 +1513,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break | collab |  element-citation |
                          mixed-citation |  name | string-name)*                 >
@@ -1584,8 +1543,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                  >
 <!ATTLIST  label
@@ -1620,8 +1578,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break |
                          citation-alternatives | element-citation |
@@ -1652,8 +1609,7 @@
                          ruby | alternatives | inline-graphic |
                          chem-struct | inline-formula | journal-id |
                          label | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | annotation | article-title | chapter-title |
                          collab | collab-alternatives |comment |
                          conf-acronym | conf-date | conf-loc |
@@ -1714,8 +1670,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break |
                          contrib |
@@ -1740,8 +1695,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break |
                          graphic | media)*                    >
@@ -1914,8 +1868,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*              >
 <!ATTLIST  meta-name
@@ -1932,8 +1885,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*             >
 <!ATTLIST  meta-value
@@ -2046,8 +1998,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                >
 <!ATTLIST  subject
@@ -2089,8 +2040,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*           >
 <!ATTLIST  series-title
@@ -2112,8 +2062,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*            >
 <!ATTLIST  series-text
@@ -2147,8 +2096,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | label |
-                         tex-math | mml:math | abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         tex-math | mml:math | abbrev | milestone-end | milestone-start |
                          named-content | styled-content |
                          price | annotation | article-title | chapter-title |
                          collab | collab-alternatives |comment |
@@ -2204,8 +2152,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*               >
 <!ATTLIST  self-uri
@@ -2306,8 +2253,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                    >
 <!ATTLIST  kwd
@@ -2334,8 +2280,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*      >
 <!ATTLIST  compound-kwd-part
@@ -2362,8 +2307,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)* >
 <!ATTLIST  unstructured-kwd-group
@@ -2387,8 +2331,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x |
                            break | label)*                >
@@ -2446,8 +2389,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*           >
 <!ATTLIST  conf-acronym
@@ -2469,8 +2411,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*               >
 <!ATTLIST  conf-num
@@ -2492,8 +2433,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*             >
 <!ATTLIST  conf-theme
@@ -2515,8 +2455,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x| conf-date | conf-name | conf-num |
                          conf-loc | conf-sponsor | conf-theme |
@@ -2599,8 +2538,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*               >
 <!ATTLIST  subtitle
@@ -2622,8 +2560,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break |
                          label)*              >
@@ -2817,8 +2754,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x |
                          break | object-id |
@@ -2996,8 +2932,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x |
                          attrib | permissions )*                            >
@@ -3021,8 +2956,7 @@
                          roman | sans-serif | sc | strike |
                          underline | underline-start |
                          underline-end |
-                         ruby | abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         ruby | abbrev | milestone-end | milestone-start |
                          named-content | styled-content |
                          fn | target | xref | sub | sup)*                   >
 <!ATTLIST  code
@@ -3157,8 +3091,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  bold
@@ -3178,8 +3111,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  fixed-case
@@ -3200,8 +3132,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  italic
@@ -3221,8 +3152,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  monospace
@@ -3242,8 +3172,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  roman
@@ -3263,8 +3192,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  sans-serif
@@ -3284,8 +3212,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  sc
@@ -3305,8 +3232,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  overline
@@ -3326,8 +3252,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  strike
@@ -3347,8 +3272,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  sub
@@ -3368,8 +3292,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  sup
@@ -3389,8 +3312,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  underline
@@ -3454,8 +3376,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                     >
 <!ATTLIST  rb
@@ -3503,8 +3424,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | award-id | funding-source | open-access)*      >
 <!ATTLIST  funding-statement
@@ -3567,8 +3487,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | institution | institution-wrap)*         >
 <!ATTLIST  funding-source
@@ -3602,8 +3521,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*               >
 <!ATTLIST  award-id
@@ -3679,8 +3597,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*          >
 <!ATTLIST  journal-title
@@ -3703,8 +3620,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*       >
 <!ATTLIST  journal-subtitle
@@ -3727,8 +3643,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*   >
 <!ATTLIST  abbrev-journal-title
@@ -3760,8 +3675,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  target
@@ -3783,8 +3697,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                   >
 <!ATTLIST  xref
@@ -3809,8 +3722,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*  >
 <!ATTLIST  inline-supplementary-material
@@ -3862,8 +3774,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*              >
 <!ATTLIST  term-head
@@ -3880,8 +3791,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*               >
 <!ATTLIST  def-head
@@ -3906,8 +3816,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | disp-formula | disp-formula-group |
                          chem-struct-wrap |
@@ -3956,8 +3865,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                       >
 <!ATTLIST  inline-formula
@@ -3979,8 +3887,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | abstract |
                          alt-text | long-desc | break |
@@ -4032,8 +3939,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x |
                          address |
@@ -4106,8 +4012,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | degrees | given-names | prefix | surname |
                          suffix)*                >
@@ -4154,8 +4059,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | label)*             >
 <!ATTLIST  verse-line
@@ -4177,8 +4081,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | def)*                 >
 <!ATTLIST  abbrev
@@ -4238,8 +4141,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x |
                          address |
@@ -4287,8 +4189,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x |
                          address |
@@ -4398,8 +4299,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*          >
 <!ATTLIST  chapter-title
@@ -4419,8 +4319,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                >
 <!ATTLIST  comment
@@ -4479,8 +4378,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                >
 <!ATTLIST  edition
@@ -4503,8 +4401,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                    >
 <!ATTLIST  gov
@@ -4526,8 +4423,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*             >
 <!ATTLIST  part-title
@@ -4547,8 +4443,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                 >
 <!ATTLIST  patent
@@ -4604,8 +4499,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                 >
 <!ATTLIST  series
@@ -4645,8 +4539,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | institution | institution-wrap |
                          break)*       >
@@ -4669,8 +4562,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  source
@@ -4701,8 +4593,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | break)*                 >
 <!ATTLIST  trans-source
@@ -4724,8 +4615,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x)*                >
 <!ATTLIST  version
@@ -4751,8 +4641,7 @@
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | label |
-                         tex-math | mml:math | abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         tex-math | mml:math | abbrev | milestone-end | milestone-start |
                          named-content | styled-content |
                          annotation | article-title | chapter-title |
                          collab | collab-alternatives |comment |
@@ -13062,8 +12951,7 @@ xmlns:mml  CDATA   #FIXED 'http://www.w3.org/1998/Math/MathML'
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | disp-formula | disp-formula-group |
                          break | chem-struct-wrap |
@@ -13113,8 +13001,7 @@ xmlns:mml  CDATA   #FIXED 'http://www.w3.org/1998/Math/MathML'
                          ruby  |
                          alternatives | inline-graphic |
                          chem-struct | inline-formula | tex-math | mml:math |
-                         abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
+                         abbrev | milestone-end | milestone-start |
                          named-content | styled-content | fn | target | xref |
                          sub | sup | x | disp-formula | disp-formula-group |
                          break | chem-struct-wrap |

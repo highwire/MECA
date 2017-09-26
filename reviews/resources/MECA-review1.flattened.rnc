@@ -133,8 +133,6 @@ copyright-statement =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -209,8 +207,6 @@ license-p =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -302,8 +298,6 @@ article-title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -363,8 +357,6 @@ aff =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -432,8 +424,6 @@ conf-loc =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -491,8 +481,6 @@ conf-name =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -541,8 +529,6 @@ conf-sponsor =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -628,8 +614,6 @@ issue =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -698,8 +682,6 @@ issue-part =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -748,8 +730,6 @@ issue-sponsor =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -798,8 +778,6 @@ issue-title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -857,8 +835,6 @@ role =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -917,8 +893,6 @@ trans-subtitle =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -968,8 +942,6 @@ trans-title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1020,8 +992,6 @@ volume =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1081,8 +1051,6 @@ volume-id =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1131,8 +1099,6 @@ volume-series =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1196,8 +1162,6 @@ anonymous =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1245,8 +1209,6 @@ etal =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1294,8 +1256,6 @@ on-behalf-of =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1352,8 +1312,6 @@ publisher-name =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1412,8 +1370,6 @@ publisher-loc =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1526,8 +1482,6 @@ mixed-citation =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1645,8 +1599,6 @@ element-citation =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1776,8 +1728,6 @@ addr-line =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1863,8 +1813,6 @@ email =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1912,8 +1860,6 @@ fax =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -1972,8 +1918,6 @@ institution =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2038,8 +1982,6 @@ phone =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2116,8 +2058,6 @@ uri =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2166,8 +2106,6 @@ supplement =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2279,8 +2217,6 @@ string-date =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2372,8 +2308,6 @@ collab =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2456,8 +2390,6 @@ string-name =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2511,8 +2443,6 @@ degrees =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2559,8 +2489,6 @@ given-names =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2607,8 +2535,6 @@ surname =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2657,8 +2583,6 @@ prefix =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2707,8 +2631,6 @@ suffix =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2768,8 +2690,6 @@ ext-link =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2817,8 +2737,6 @@ attrib =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2881,8 +2799,6 @@ label =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -2959,8 +2875,6 @@ title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -3031,8 +2945,6 @@ related-article =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -3140,8 +3052,6 @@ sig-block =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -3200,8 +3110,6 @@ sig =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -3470,8 +3378,6 @@ meta-name =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -3517,8 +3423,6 @@ meta-value =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -3724,8 +3628,6 @@ subject =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -3812,8 +3714,6 @@ series-title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -3862,8 +3762,6 @@ series-text =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -3932,8 +3830,6 @@ product =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4058,8 +3954,6 @@ self-uri =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4221,8 +4115,6 @@ kwd =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4278,8 +4170,6 @@ compound-kwd-part =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4336,8 +4226,6 @@ unstructured-kwd-group =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4395,8 +4283,6 @@ corresp =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4485,8 +4371,6 @@ conf-acronym =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4535,8 +4419,6 @@ conf-num =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4585,8 +4467,6 @@ conf-theme =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4635,8 +4515,6 @@ string-conf =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4766,8 +4644,6 @@ subtitle =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -4817,8 +4693,6 @@ alt-title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5154,8 +5028,6 @@ chem-struct =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5394,8 +5266,6 @@ preformat =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5448,8 +5318,6 @@ code =
      | underline-end
      | ruby
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5624,8 +5492,6 @@ bold =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5674,8 +5540,6 @@ fixed-case =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5724,8 +5588,6 @@ italic =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5774,8 +5636,6 @@ monospace =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5824,8 +5684,6 @@ roman =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5874,8 +5732,6 @@ sans-serif =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5924,8 +5780,6 @@ sc =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -5974,8 +5828,6 @@ overline =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6024,8 +5876,6 @@ strike =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6074,8 +5924,6 @@ sub =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6124,8 +5972,6 @@ sup =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6175,8 +6021,6 @@ underline =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6265,8 +6109,6 @@ rb =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6350,8 +6192,6 @@ funding-statement =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6446,8 +6286,6 @@ funding-source =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6509,8 +6347,6 @@ award-id =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6606,8 +6442,6 @@ journal-title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6656,8 +6490,6 @@ journal-subtitle =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6706,8 +6538,6 @@ abbrev-journal-title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6767,8 +6597,6 @@ target =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6820,8 +6648,6 @@ xref =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6885,8 +6711,6 @@ inline-supplementary-material =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6949,8 +6773,6 @@ term-head =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -6996,8 +6818,6 @@ def-head =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7056,8 +6876,6 @@ term =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7138,8 +6956,6 @@ inline-formula =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7188,8 +7004,6 @@ disp-formula =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7275,8 +7089,6 @@ p =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7418,8 +7230,6 @@ speaker =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7499,8 +7309,6 @@ verse-line =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7561,8 +7369,6 @@ abbrev =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7646,8 +7452,6 @@ named-content =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7728,8 +7532,6 @@ styled-content =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7898,8 +7700,6 @@ chapter-title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -7949,8 +7749,6 @@ comment =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8063,8 +7861,6 @@ edition =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8113,8 +7909,6 @@ gov =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8162,8 +7956,6 @@ part-title =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8214,8 +8006,6 @@ patent =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8303,8 +8093,6 @@ series =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8387,8 +8175,6 @@ std-organization =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8440,8 +8226,6 @@ source =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8499,8 +8283,6 @@ trans-source =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8551,8 +8333,6 @@ version =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -8622,8 +8402,6 @@ related-object =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -23446,8 +23224,6 @@ th =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -23528,8 +23304,6 @@ td =
      | tex-math
      | mml.math
      | abbrev
-     | index-term
-     | index-term-range-end
      | milestone-end
      | milestone-start
      | named-content
@@ -23900,8 +23674,6 @@ book-page-count |= notAllowed
 book-ref-count |= notAllowed
 book-table-count |= notAllowed
 book-word-count |= notAllowed
-index-term |= notAllowed
-index-term-range-end |= notAllowed
 name-address-wrap |= notAllowed
 start =
   app-group

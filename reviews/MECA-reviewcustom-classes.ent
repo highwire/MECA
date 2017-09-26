@@ -38,17 +38,6 @@
 <!--                    INLINE CLASSES                             -->
 <!-- ============================================================= -->
 
-
-<!--                    PHRASE CLASS ELEMENTS                      -->
-<!--                    Small inline elements, that surround a word
-                        or phrase in the text because the subject
-                        (content) should be identified as something
-                        special or different                       -->
-<!ENTITY % phrase.class "abbrev | index-term | index-term-range-end |
-                         milestone-end | milestone-start |
-                         named-content | styled-content"             >
-
-
 <!--                    INLINE DISPLAY CLASS ELEMENTS              -->
 <!--                    Non-block display elements that set or
                         display inline with the text               -->
